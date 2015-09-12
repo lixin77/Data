@@ -15846,120 +15846,126 @@
     <docid>bolt-cmn-DF-182-192251-6384507</docid>
     <beg>3527</beg>
     <end>3529</end>
+    <entity_id>m.0gx1g3s</entity_id>
   </query>
   <query id="EL14_CMN_2642">
     <name>外交部</name>
     <docid>PDA_CMN_20081013.0102</docid>
     <beg>210</beg>
     <end>212</end>
+    <entity_id>m.01t_55</entity_id>
   </query>
   <query id="EL14_CMN_2643">
     <name>冰冰</name>
     <docid>CNS_CMN_20101228.1178</docid>
     <beg>61</beg>
     <end>62</end>
+    <entity_id>m.09wn3y</entity_id>
   </query>
   <query id="EL14_CMN_2644">
     <name>科比</name>
     <docid>GMW_CMN_20100625.0655</docid>
     <beg>184</beg>
     <end>185</end>
+    <entity_id>m.01kmd4</entity_id>
   </query>
   <query id="EL14_CMN_2645">
     <name>佩雷斯</name>
     <docid>bolt-cmn-DF-213-191701-5160986</docid>
     <beg>1708</beg>
     <end>1710</end>
+    <entity_id>m.0c_8s</entity_id>
   </query>
   <query id="EL14_CMN_2646">
     <name>抚顺</name>
     <docid>PDA_CMN_20080110.0153</docid>
     <beg>134</beg>
     <end>135</end>
-  </query>
-  <query id="EL14_CMN_2647">
-    <name>Michael Jordan</name>
-    <docid>APW_ENG_20100227.0632</docid>
-    <beg>234</beg>
-    <end>247</end>
-  </query>
-  <query id="EL14_CMN_2648">
-    <name>Dwyane Wade</name>
-    <docid>APW_ENG_20101006.0081</docid>
-    <beg>182</beg>
-    <end>192</end>
+    <entity_id>m.0579t4</entity_id>
   </query>
   <query id="EL14_CMN_2649">
     <name>戴老板</name>
     <docid>CNS_CMN_20100314.0116</docid>
     <beg>296</beg>
     <end>298</end>
+    <entity_id>m.085m5b</entity_id>
   </query>
   <query id="EL14_CMN_2650">
     <name>史蒂夫·乔布斯</name>
     <docid>CNS_CMN_20091123.0164</docid>
     <beg>167</beg>
     <end>173</end>
+    <entity_id>m.06y3r</entity_id>
   </query>
   <query id="EL14_CMN_2651">
     <name>University of Ottawa</name>
     <docid>CNS_CMN_20100514.0859</docid>
     <beg>537</beg>
     <end>556</end>
+    <entity_id>m.011kn2</entity_id>
   </query>
   <query id="EL14_CMN_2652">
     <name>妇联</name>
     <docid>XIN_CMN_20081127.0166</docid>
     <beg>176</beg>
     <end>177</end>
+    <entity_id>m.08__ww</entity_id>
   </query>
   <query id="EL14_CMN_2653">
     <name>小英</name>
     <docid>PDA_CMN_20100318.0242</docid>
     <beg>425</beg>
     <end>426</end>
+    <entity_id>m.0bhd24</entity_id>
   </query>
   <query id="EL14_CMN_2654">
     <name>国父</name>
     <docid>bolt-cmn-DF-20-191613-3836435</docid>
     <beg>5170</beg>
     <end>5171</end>
+    <entity_id>m.04xzm</entity_id>
   </query>
   <query id="EL14_CMN_2655">
     <name>捷克</name>
     <docid>XIN_CMN_19970318.0221</docid>
     <beg>211</beg>
     <end>212</end>
+    <entity_id>m.01mjq</entity_id>
   </query>
   <query id="EL14_CMN_2656">
     <name>罗斯福</name>
     <docid>AFP_CMN_20081002.0030</docid>
     <beg>219</beg>
     <end>221</end>
+    <entity_id>m.02yy8</entity_id>
   </query>
   <query id="EL14_CMN_2657">
     <name>范大将军</name>
     <docid>XIN_CMN_20091023.0173</docid>
     <beg>184</beg>
     <end>187</end>
+    <entity_id>m.09gsm9</entity_id>
   </query>
   <query id="EL14_CMN_2658">
     <name>宁夏</name>
     <docid>bolt-cmn-DF-216-192653-6963059</docid>
     <beg>24520</beg>
     <end>24521</end>
+    <entity_id>m.01921y</entity_id>
   </query>
   <query id="EL14_CMN_2659">
     <name>成龙</name>
     <docid>bolt-cmn-DF-182-192231-4901873</docid>
     <beg>324</beg>
     <end>325</end>
+    <entity_id>m.012d40</entity_id>
   </query>
   <query id="EL14_CMN_2660">
     <name>城</name>
     <docid>PLA_CMN_20090906.0024</docid>
     <beg>61</beg>
     <end>61</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2661">
     <name>郊</name>
