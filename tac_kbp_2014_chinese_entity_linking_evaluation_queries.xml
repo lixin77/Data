@@ -15165,108 +15165,112 @@
     <docid>CNS_CMN_20100319.0887</docid>
     <beg>199</beg>
     <end>200</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2528">
     <name>庾澄庆</name>
     <docid>PDA_CMN_20100317.0431</docid>
     <beg>240</beg>
     <end>242</end>
+    <entity_id>m.01pc42h</entity_id>
   </query>
   <query id="EL14_CMN_2529">
     <name>妇联</name>
     <docid>XIN_CMN_20081223.0038</docid>
     <beg>170</beg>
     <end>171</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2530">
     <name>汉卿</name>
     <docid>PDA_CMN_20070511.0162</docid>
     <beg>500</beg>
     <end>501</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2531">
     <name>德怀特·霍华德</name>
     <docid>XIN_CMN_20100819.0142</docid>
     <beg>283</beg>
     <end>289</end>
+    <entity_id>m.02fg_f</entity_id>
   </query>
   <query id="EL14_CMN_2532">
     <name>安吉莉娜裘莉</name>
     <docid>AFP_CMN_20060120.0008</docid>
     <beg>187</beg>
     <end>192</end>
+    <entity_id>m.0f4vbz</entity_id>
   </query>
   <query id="EL14_CMN_2533">
     <name>海基会</name>
     <docid>bolt-cmn-DF-205-185863-147969</docid>
     <beg>2811</beg>
     <end>2813</end>
+    <entity_id>m.03q4v3</entity_id>
   </query>
   <query id="EL14_CMN_2534">
     <name>长宁</name>
     <docid>XIN_CMN_20070309.0005</docid>
     <beg>155</beg>
     <end>156</end>
+    <entity_id>m.076x4sn</entity_id>
   </query>
   <query id="EL14_CMN_2535">
     <name>外交部</name>
     <docid>XIN_CMN_20041228.0166</docid>
     <beg>190</beg>
     <end>192</end>
-  </query>
-  <query id="EL14_CMN_2536">
-    <name>Tangshan</name>
-    <docid>XIN_ENG_20100305.0415</docid>
-    <beg>531</beg>
-    <end>538</end>
+    <entity_id>m.047glv4</entity_id>
   </query>
   <query id="EL14_CMN_2537">
     <name>河北</name>
     <docid>PDA_CMN_20080325.0246</docid>
     <beg>58</beg>
     <end>59</end>
-  </query>
-  <query id="EL14_CMN_2538">
-    <name>Kingdom of the Netherlands</name>
-    <docid>AFP_ENG_20101008.0406</docid>
-    <beg>275</beg>
-    <end>300</end>
+    <entity_id>m.0jk_8</entity_id>
   </query>
   <query id="EL14_CMN_2539">
     <name>师范大学</name>
     <docid>XIN_CMN_19940907.0281</docid>
     <beg>245</beg>
     <end>248</end>
+    <entity_id>m.03pxr0</entity_id>
   </query>
   <query id="EL14_CMN_2540">
     <name>罗志祥</name>
     <docid>CNS_CMN_20090915.3339</docid>
     <beg>204</beg>
     <end>206</end>
+    <entity_id>m.0dw349</entity_id>
   </query>
   <query id="EL14_CMN_2541">
     <name>密苏里</name>
     <docid>PDA_CMN_20070913.0151</docid>
     <beg>59</beg>
     <end>61</end>
+    <entity_id>m.04ych</entity_id>
   </query>
   <query id="EL14_CMN_2542">
     <name>老薄</name>
     <docid>bolt-cmn-DF-20-191611-3856343</docid>
     <beg>6832</beg>
     <end>6833</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2543">
     <name>自强学堂</name>
     <docid>CNS_CMN_20101123.0417</docid>
     <beg>373</beg>
     <end>376</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2544">
     <name>张召忠</name>
     <docid>bolt-cmn-DF-20-191611-3862341</docid>
     <beg>58</beg>
     <end>60</end>
+    <entity_id>m.0j63pk7</entity_id>
   </query>
   <query id="EL14_CMN_2545">
     <name>甘</name>
