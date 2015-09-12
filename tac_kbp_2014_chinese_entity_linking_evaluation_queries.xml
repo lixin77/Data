@@ -816,6 +816,7 @@
     <docid>bolt-cmn-DF-211-187119-4766803</docid>
     <beg>5981</beg>
     <end>5983</end>
+    <entity_id>m.06v7s3</entity_id>
   </query>
   <query id="EL14_CMN_0137">
     <name>徐熙媛</name>
@@ -2604,6 +2605,7 @@
     <docid>bolt-cmn-DF-21-181169-81886</docid>
     <beg>4280</beg>
     <end>4282</end>
+    <entity_id>m.06v7s3</entity_id>
   </query>
   <query id="EL14_CMN_0435">
     <name>博熙来</name>
@@ -6282,6 +6284,7 @@
     <docid>bolt-cmn-DF-211-187123-5137869</docid>
     <beg>1249</beg>
     <end>1251</end>
+    <entity_id>m.06v7s3</entity_id>
   </query>
   <query id="EL14_CMN_1048">
     <name>薄书记</name>
@@ -15612,132 +15615,119 @@
     <docid>AFP_CMN_20090903.0014</docid>
     <beg>59</beg>
     <end>61</end>
+    <entity_id>m.01pvx3</entity_id>
   </query>
   <query id="EL14_CMN_2603">
     <name>贝克汉姆</name>
     <docid>GMW_CMN_20100318.0352</docid>
     <beg>145</beg>
     <end>148</end>
+    <entity_id>m.02d9k</entity_id>
   </query>
   <query id="EL14_CMN_2604">
     <name>哈利贝瑞</name>
     <docid>bolt-cmn-DF-196-185692-2810802</docid>
     <beg>1371</beg>
     <end>1374</end>
+    <entity_id>m.03knl</entity_id>
   </query>
   <query id="EL14_CMN_2605">
     <name>枫叶之国</name>
     <docid>XIN_CMN_19941106.0163</docid>
     <beg>347</beg>
     <end>350</end>
-  </query>
-  <query id="EL14_CMN_2606">
-    <name>people's bank of china</name>
-    <docid>bolt-eng-DF-199-192956-6535801</docid>
-    <beg>19664</beg>
-    <end>19685</end>
+    <entity_id>m.0d060g</entity_id>
   </query>
   <query id="EL14_CMN_2607">
     <name>秀英</name>
     <docid>CNS_CMN_20100128.0922</docid>
     <beg>181</beg>
     <end>182</end>
-  </query>
-  <query id="EL14_CMN_2608">
-    <name>Belgium</name>
-    <docid>AFP_ENG_20100506.0174</docid>
-    <beg>89</beg>
-    <end>95</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2609">
     <name>文联</name>
     <docid>XIN_CMN_19990518.0164</docid>
     <beg>381</beg>
     <end>382</end>
+    <entity_id>m.0gjf22y</entity_id>
   </query>
   <query id="EL14_CMN_2610">
     <name>费玉清</name>
     <docid>bolt-cmn-DF-182-192231-4919945</docid>
     <beg>5574</beg>
     <end>5576</end>
+    <entity_id>m.06v7s3</entity_id>
   </query>
   <query id="EL14_CMN_2611">
     <name>朝阳</name>
     <docid>CNS_CMN_20091130.0136</docid>
     <beg>432</beg>
     <end>433</end>
-  </query>
-  <query id="EL14_CMN_2612">
-    <name>Joan Chen</name>
-    <docid>NYT_ENG_20090729.0070</docid>
-    <beg>1223</beg>
-    <end>1231</end>
+    <entity_id>m.06fjsn</entity_id>
   </query>
   <query id="EL14_CMN_2613">
     <name>Florida State University</name>
     <docid>AFP_CMN_20101231.0045</docid>
     <beg>259</beg>
     <end>282</end>
+    <entity_id>m.01jq0j</entity_id>
   </query>
   <query id="EL14_CMN_2614">
     <name>胡耀邦</name>
     <docid>bolt-cmn-DF-182-192251-20818723</docid>
     <beg>154</beg>
     <end>156</end>
+    <entity_id>m.0hdkp</entity_id>
   </query>
   <query id="EL14_CMN_2615">
     <name>唐明皇</name>
     <docid>CNS_CMN_20100301.0596</docid>
     <beg>208</beg>
     <end>210</end>
+    <entity_id>m.02z940</entity_id>
   </query>
   <query id="EL14_CMN_2616">
     <name>金川</name>
     <docid>CNS_CMN_20100409.0715</docid>
     <beg>190</beg>
     <end>191</end>
-  </query>
-  <query id="EL14_CMN_2617">
-    <name>Deng Xiaoping</name>
-    <docid>AFP_ENG_20101208.0498</docid>
-    <beg>238</beg>
-    <end>250</end>
+    <entity_id>m.04m_v_7</entity_id>
   </query>
   <query id="EL14_CMN_2618">
     <name>大威</name>
     <docid>CNA_CMN_20100121.0311</docid>
     <beg>356</beg>
     <end>357</end>
+    <entity_id>m.016cff</entity_id>
   </query>
   <query id="EL14_CMN_2619">
     <name>长宁</name>
     <docid>PDA_CMN_20061110.0703</docid>
     <beg>165</beg>
     <end>166</end>
+    <entity_id>m.03_h4p</entity_id>
   </query>
   <query id="EL14_CMN_2620">
     <name>Michael Jackson</name>
     <docid>CNS_CMN_20090822.0066</docid>
     <beg>254</beg>
     <end>268</end>
+    <entity_id>m.09889g</entity_id>
   </query>
   <query id="EL14_CMN_2621">
     <name>河北</name>
     <docid>PDA_CMN_20070123.0128</docid>
     <beg>276</beg>
     <end>277</end>
-  </query>
-  <query id="EL14_CMN_2622">
-    <name>Idaho</name>
-    <docid>APW_ENG_20101102.0065</docid>
-    <beg>97</beg>
-    <end>101</end>
+    <entity_id>m.0jk_8</entity_id>
   </query>
   <query id="EL14_CMN_2623">
     <name>外交部</name>
     <docid>XIN_CMN_20050317.0060</docid>
     <beg>171</beg>
     <end>173</end>
+    <entity_id>m.02626pc</entity_id>
   </query>
   <query id="EL14_CMN_2624">
     <name>罗纳尔多</name>
