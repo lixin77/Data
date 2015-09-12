@@ -15273,150 +15273,140 @@
     <docid>bolt-cmn-DF-182-192249-6414374</docid>
     <beg>12617</beg>
     <end>12617</end>
+    <entity_id>m.01vs_v8</entity_id>
   </query>
   <query id="EL14_CMN_2546">
     <name>麦当娜</name>
     <docid>PDA_CMN_20080701.0138</docid>
     <beg>137</beg>
     <end>139</end>
+    <entity_id>m.01vs_v8</entity_id>
   </query>
   <query id="EL14_CMN_2547">
     <name>汤姆汉克斯</name>
     <docid>bolt-cmn-DF-216-192653-5867182</docid>
     <beg>28045</beg>
     <end>28049</end>
+    <entity_id>m.0bxtg</entity_id>
   </query>
   <query id="EL14_CMN_2548">
     <name>东安</name>
     <docid>CNS_CMN_20091029.1224</docid>
     <beg>764</beg>
     <end>765</end>
-  </query>
-  <query id="EL14_CMN_2549">
-    <name>Chicago</name>
-    <docid>AFP_ENG_20091002.0138</docid>
-    <beg>110</beg>
-    <end>116</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2550">
     <name>大使馆</name>
     <docid>CNS_CMN_20100920.0962</docid>
     <beg>158</beg>
     <end>160</end>
-  </query>
-  <query id="EL14_CMN_2551">
-    <name>Mikhail Gorbachev</name>
-    <docid>APW_ENG_20100924.0225</docid>
-    <beg>306</beg>
-    <end>322</end>
+    <entity_id>m.02gyq</entity_id>
   </query>
   <query id="EL14_CMN_2552">
     <name>张局</name>
     <docid>bolt-cmn-DF-196-185667-2998877</docid>
     <beg>2050</beg>
     <end>2051</end>
+    <entity_id>m.0j63pk7</entity_id>
   </query>
   <query id="EL14_CMN_2553">
     <name>平江</name>
     <docid>CNS_CMN_20101213.0395</docid>
     <beg>159</beg>
     <end>160</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2554">
     <name>加州</name>
     <docid>bolt-cmn-DF-21-181074-2172</docid>
     <beg>11384</beg>
     <end>11385</end>
+    <entity_id>m.01n7q</entity_id>
   </query>
   <query id="EL14_CMN_2555">
     <name>妇幼保健院</name>
     <docid>CNS_CMN_20100324.0527</docid>
     <beg>453</beg>
     <end>457</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2556">
     <name>胡帅</name>
     <docid>bolt-cmn-DF-20-191613-3834663</docid>
     <beg>584</beg>
     <end>585</end>
+    <entity_id>m.02m_5y</entity_id>
   </query>
   <query id="EL14_CMN_2557">
     <name>hold住姐</name>
     <docid>bolt-cmn-DF-196-185692-2809750</docid>
     <beg>1521</beg>
     <end>1526</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2558">
     <name>汉卿</name>
     <docid>XIN_CMN_19940521.0098</docid>
     <beg>491</beg>
     <end>492</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2559">
     <name>孔老二</name>
     <docid>bolt-cmn-DF-20-191610-10951503</docid>
     <beg>15908</beg>
     <end>15910</end>
+    <entity_id>m.01rll</entity_id>
   </query>
   <query id="EL14_CMN_2560">
     <name>汤姆·汉克斯</name>
     <docid>bolt-cmn-DF-182-192251-6383642</docid>
     <beg>1583</beg>
     <end>1588</end>
-  </query>
-  <query id="EL14_CMN_2561">
-    <name>Nankai University</name>
-    <docid>CNA_ENG_20091013.0001</docid>
-    <beg>711</beg>
-    <end>727</end>
+    <entity_id>m.0bxtg</entity_id>
   </query>
   <query id="EL14_CMN_2562">
     <name>妇幼保健院</name>
     <docid>CNS_CMN_20100104.0529</docid>
     <beg>276</beg>
     <end>280</end>
-  </query>
-  <query id="EL14_CMN_2563">
-    <name>Indiana</name>
-    <docid>APW_ENG_20100505.0035</docid>
-    <beg>162</beg>
-    <end>168</end>
-  </query>
-  <query id="EL14_CMN_2564">
-    <name>embassy</name>
-    <docid>XIN_ENG_20100422.0367</docid>
-    <beg>1325</beg>
-    <end>1331</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2565">
     <name>恩施</name>
     <docid>XIN_CMN_20100618.0260</docid>
     <beg>185</beg>
     <end>186</end>
+    <entity_id>m.027pxfh</entity_id>
   </query>
   <query id="EL14_CMN_2566">
     <name>邓肯</name>
     <docid>XIN_CMN_20030630.0175</docid>
     <beg>249</beg>
     <end>250</end>
+    <entity_id>m.01gct2</entity_id>
   </query>
   <query id="EL14_CMN_2567">
     <name>中国台湾</name>
     <docid>XIN_CMN_20070819.0253</docid>
     <beg>90</beg>
     <end>93</end>
+    <entity_id>m.0gttkcr</entity_id>
   </query>
   <query id="EL14_CMN_2568">
     <name>杰斐逊</name>
     <docid>PDA_CMN_20080413.0085</docid>
     <beg>181</beg>
     <end>183</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2569">
     <name>宋太祖</name>
     <docid>CNS_CMN_20091207.0427</docid>
     <beg>508</beg>
     <end>510</end>
+    <entity_id>m.043fw2</entity_id>
   </query>
   <query id="EL14_CMN_2571">
     <name>他信</name>
