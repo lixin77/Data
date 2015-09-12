@@ -15966,96 +15966,91 @@
     <docid>XIN_CMN_19930831.0004</docid>
     <beg>910</beg>
     <end>910</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2662">
     <name>毛新宇</name>
     <docid>CNA_CMN_20090924.0075</docid>
     <beg>166</beg>
     <end>168</end>
+    <entity_id>m.03wbgrb</entity_id>
   </query>
   <query id="EL14_CMN_2663">
     <name>宋子文</name>
     <docid>bolt-cmn-DF-211-187115-4410490</docid>
     <beg>1268</beg>
     <end>1270</end>
+    <entity_id>m.01z0fw</entity_id>
   </query>
   <query id="EL14_CMN_2664">
     <name>杨百万</name>
     <docid>PDA_CMN_20101201.0047</docid>
     <beg>203</beg>
     <end>205</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2665">
     <name>杨家庄</name>
     <docid>CNS_CMN_20100302.0613</docid>
     <beg>207</beg>
     <end>209</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2666">
     <name>妮可姐</name>
     <docid>bolt-cmn-DF-196-185692-2807653</docid>
     <beg>5012</beg>
     <end>5014</end>
+    <entity_id>m.05dbf</entity_id>
   </query>
   <query id="EL14_CMN_2667">
     <name>费玉清</name>
     <docid>bolt-cmn-DF-182-192249-6425018</docid>
     <beg>2871</beg>
     <end>2873</end>
+    <entity_id>m.06v7s3</entity_id>
   </query>
   <query id="EL14_CMN_2668">
     <name>大S</name>
     <docid>bolt-cmn-DF-196-185692-2813271</docid>
     <beg>687</beg>
     <end>688</end>
+    <entity_id>m.0dcfnz</entity_id>
   </query>
   <query id="EL14_CMN_2669">
     <name>东乡</name>
     <docid>XIN_CMN_20100706.0230</docid>
     <beg>296</beg>
     <end>297</end>
-  </query>
-  <query id="EL14_CMN_2670">
-    <name>embassy</name>
-    <docid>XIN_ENG_20100422.0367</docid>
-    <beg>1503</beg>
-    <end>1509</end>
-  </query>
-  <query id="EL14_CMN_2671">
-    <name>City of Brotherly Love</name>
-    <docid>APW_ENG_20100609.1346</docid>
-    <beg>201</beg>
-    <end>222</end>
+    <entity_id>m.04cy3mk</entity_id>
   </query>
   <query id="EL14_CMN_2672">
     <name>高雄</name>
     <docid>CNA_CMN_20100730.0223</docid>
     <beg>105</beg>
     <end>106</end>
+    <entity_id>m.04bnx</entity_id>
   </query>
   <query id="EL14_CMN_2673">
     <name>丽水</name>
     <docid>XIN_CMN_20021203.0188</docid>
     <beg>257</beg>
     <end>258</end>
+    <entity_id>m.0227fd</entity_id>
   </query>
   <query id="EL14_CMN_2674">
     <name>青年联合会</name>
     <docid>XIN_CMN_20060722.0081</docid>
     <beg>220</beg>
     <end>224</end>
-  </query>
-  <query id="EL14_CMN_2675">
-    <name>RUC</name>
-    <docid>XIN_ENG_20101120.0253</docid>
-    <beg>374</beg>
-    <end>376</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2676">
     <name>爱阿华</name>
     <docid>AFP_CMN_20100323.0018</docid>
     <beg>258</beg>
     <end>260</end>
+    <entity_id>m.0t015</entity_id>
   </query>
   <query id="EL14_CMN_2677">
     <name>蒋中正</name>
