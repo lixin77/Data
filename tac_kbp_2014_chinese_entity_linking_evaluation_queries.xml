@@ -14925,240 +14925,245 @@
     <docid>XIN_CMN_20060410.0128</docid>
     <beg>292</beg>
     <end>293</end>
+    <entity_id>m.04l04</entity_id>
   </query>
   <query id="EL14_CMN_2488">
     <name>外交部</name>
     <docid>XIN_CMN_20070823.0263</docid>
     <beg>109</beg>
     <end>111</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2489">
     <name>巴拉克・欧巴马</name>
     <docid>AFP_CMN_20080828.0020</docid>
     <beg>148</beg>
     <end>154</end>
+    <entity_id>m.02mjmr</entity_id>
   </query>
   <query id="EL14_CMN_2490">
     <name>默克尔</name>
     <docid>PDA_CMN_20091028.0441</docid>
     <beg>148</beg>
     <end>150</end>
+    <entity_id>m.0jl0g</entity_id>
   </query>
   <query id="EL14_CMN_2491">
     <name>大威廉絲</name>
     <docid>CNA_CMN_20100703.0269</docid>
     <beg>370</beg>
     <end>373</end>
-  </query>
-  <query id="EL14_CMN_2492">
-    <name>Soong Mei-ling</name>
-    <docid>NYT_ENG_20091104.0054</docid>
-    <beg>219</beg>
-    <end>232</end>
+    <entity_id>m.016cff</entity_id>
   </query>
   <query id="EL14_CMN_2493">
     <name>安徽</name>
     <docid>bolt-cmn-DF-21-181074-2469</docid>
     <beg>49</beg>
     <end>50</end>
+    <entity_id>m.0qb62</entity_id>
   </query>
   <query id="EL14_CMN_2494">
     <name>锦官城</name>
     <docid>XIN_CMN_19940304.0027</docid>
     <beg>128</beg>
     <end>130</end>
+    <entity_id>m.016v46</entity_id>
   </query>
   <query id="EL14_CMN_2495">
     <name>汤姆。汉克斯</name>
     <docid>bolt-cmn-DF-216-192652-6973572</docid>
     <beg>2567</beg>
     <end>2572</end>
-  </query>
-  <query id="EL14_CMN_2496">
-    <name>DOVER</name>
-    <docid>APW_ENG_20090928.0607</docid>
-    <beg>4836</beg>
-    <end>4840</end>
+    <entity_id>m.0bxtg</entity_id>
   </query>
   <query id="EL14_CMN_2497">
     <name>薄一波</name>
     <docid>bolt-cmn-DF-182-192251-6388808</docid>
     <beg>49674</beg>
     <end>49676</end>
+    <entity_id>m.04k4g8</entity_id>
   </query>
   <query id="EL14_CMN_2498">
     <name>维多利亚</name>
     <docid>XIN_CMN_20070112.0156</docid>
     <beg>202</beg>
     <end>205</end>
+    <entity_id>m.0cgfb</entity_id>
   </query>
   <query id="EL14_CMN_2499">
     <name>浙江大学</name>
     <docid>XIN_CMN_20070117.0159</docid>
     <beg>142</beg>
     <end>145</end>
-  </query>
-  <query id="EL14_CMN_2500">
-    <name>Dwight Howard</name>
-    <docid>AFP_ENG_20100427.0682</docid>
-    <beg>261</beg>
-    <end>273</end>
+    <entity_id>m.01y016</entity_id>
   </query>
   <query id="EL14_CMN_2501">
     <name>Hold住姐</name>
     <docid>bolt-cmn-DF-196-185692-2809418</docid>
     <beg>53</beg>
     <end>58</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2502">
     <name>梨树</name>
     <docid>CNS_CMN_20091202.0025</docid>
     <beg>153</beg>
     <end>154</end>
+    <entity_id>m.0807trg</entity_id>
   </query>
   <query id="EL14_CMN_2503">
     <name>育才</name>
     <docid>GMW_CMN_20100606.0608</docid>
     <beg>144</beg>
     <end>145</end>
+    <entity_id>m.043n5rd</entity_id>
   </query>
   <query id="EL14_CMN_2504">
     <name>张学良</name>
     <docid>bolt-cmn-DF-20-191611-3874673</docid>
     <beg>27473</beg>
     <end>27475</end>
-  </query>
-  <query id="EL14_CMN_2505">
-    <name>Peking University</name>
-    <docid>bolt-eng-DF-170-181123-90180</docid>
-    <beg>58744</beg>
-    <end>58760</end>
+    <entity_id>m.089hk</entity_id>
   </query>
   <query id="EL14_CMN_2506">
     <name>埃尔维斯・普雷斯利</name>
     <docid>XIN_CMN_20020814.0173</docid>
     <beg>111</beg>
     <end>119</end>
+    <entity_id>m.02jq1</entity_id>
   </query>
   <query id="EL14_CMN_2507">
     <name>莎娃</name>
     <docid>XIN_CMN_20060318.0002</docid>
     <beg>253</beg>
     <end>254</end>
+    <entity_id>m.03b7gw</entity_id>
   </query>
   <query id="EL14_CMN_2508">
     <name>蔡康永</name>
     <docid>bolt-cmn-DF-182-192231-21932734</docid>
     <beg>1020</beg>
     <end>1022</end>
+    <entity_id>m.03mb__6</entity_id>
   </query>
   <query id="EL14_CMN_2509">
     <name>世行</name>
     <docid>bolt-cmn-DF-20-191610-2212198</docid>
     <beg>67</beg>
     <end>68</end>
+    <entity_id>m.02vk52z</entity_id>
   </query>
   <query id="EL14_CMN_2510">
     <name>朱总司令</name>
     <docid>bolt-cmn-DF-182-192250-6406149</docid>
     <beg>725</beg>
     <end>728</end>
+    <entity_id>m.01hljt</entity_id>
   </query>
   <query id="EL14_CMN_2511">
     <name>外交部</name>
     <docid>XIN_CMN_19940818.0083</docid>
     <beg>127</beg>
     <end>129</end>
+    <entity_id>m.02gyq</entity_id>
   </query>
   <query id="EL14_CMN_2512">
     <name>大使馆</name>
     <docid>XIN_CMN_19980731.0025</docid>
     <beg>297</beg>
     <end>299</end>
+    <entity_id>m.0478__m</entity_id>
   </query>
   <query id="EL14_CMN_2513">
     <name>不列颠及 北爱尔兰联合王国</name>
     <docid>PDA_CMN_20070412.0178</docid>
     <beg>208</beg>
     <end>220</end>
+    <entity_id>m.07ssc</entity_id>
   </query>
   <query id="EL14_CMN_2514">
     <name>伊布拉欣莫维奇</name>
     <docid>AFP_CMN_20100916.0055</docid>
     <beg>129</beg>
     <end>135</end>
+    <entity_id>m.0367hz</entity_id>
   </query>
   <query id="EL14_CMN_2515">
     <name>女神卡卡</name>
     <docid>AFP_CMN_20100201.0050</docid>
     <beg>432</beg>
     <end>435</end>
+    <entity_id>m.0478__m</entity_id>
   </query>
   <query id="EL14_CMN_2516">
     <name>广安</name>
     <docid>GMW_CMN_20091106.0150</docid>
     <beg>215</beg>
     <end>216</end>
+    <entity_id>m.0bf30s</entity_id>
   </query>
   <query id="EL14_CMN_2517">
     <name>金正恩</name>
     <docid>bolt-cmn-DF-196-185667-2983351</docid>
     <beg>2087</beg>
     <end>2089</end>
+    <entity_id>m.0fgw19</entity_id>
   </query>
   <query id="EL14_CMN_2518">
     <name>儿童医院</name>
     <docid>PDA_CMN_20070601.0125</docid>
     <beg>167</beg>
     <end>170</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2519">
     <name>汉卿</name>
     <docid>XIN_CMN_20070106.0139</docid>
     <beg>329</beg>
     <end>330</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2520">
     <name>阿妹</name>
     <docid>AFP_CMN_20010528.0021</docid>
     <beg>208</beg>
     <end>209</end>
+    <entity_id>m.02g7_n</entity_id>
   </query>
   <query id="EL14_CMN_2521">
     <name>李娜</name>
     <docid>XIN_CMN_20010627.0042</docid>
     <beg>207</beg>
     <end>208</end>
-  </query>
-  <query id="EL14_CMN_2522">
-    <name>Quang Ninh</name>
-    <docid>XIN_ENG_20090929.0050</docid>
-    <beg>877</beg>
-    <end>886</end>
+    <entity_id>m.025zdws</entity_id>
   </query>
   <query id="EL14_CMN_2523">
     <name>临夏</name>
     <docid>XIN_CMN_20060808.0148</docid>
     <beg>706</beg>
     <end>707</end>
+    <entity_id>m.09d9cq</entity_id>
   </query>
   <query id="EL14_CMN_2524">
     <name>LadyGaGa</name>
     <docid>bolt-cmn-DF-182-192231-4911397</docid>
     <beg>376</beg>
     <end>383</end>
+    <entity_id>m.0478__m</entity_id>
   </query>
   <query id="EL14_CMN_2525">
     <name>朝鲜</name>
     <docid>XIN_CMN_20070626.0013</docid>
     <beg>84</beg>
     <end>85</end>
+    <entity_id>m.05b7q</entity_id>
   </query>
   <query id="EL14_CMN_2526">
     <name>迈克尔·乔丹</name>
     <docid>bolt-cmn-DF-205-185862-621257</docid>
     <beg>1063</beg>
     <end>1068</end>
+    <entity_id>m.054c1</entity_id>
   </query>
   <query id="EL14_CMN_2527">
     <name>妇联</name>
