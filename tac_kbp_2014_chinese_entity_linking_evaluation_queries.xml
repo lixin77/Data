@@ -14811,114 +14811,119 @@
     <docid>PDA_CMN_20080626.0089</docid>
     <beg>58</beg>
     <end>60</end>
+    <entity_id>m.0154j</entity_id>
   </query>
   <query id="EL14_CMN_2469">
     <name>姚明</name>
     <docid>bolt-cmn-DF-20-191610-15118835</docid>
     <beg>146</beg>
     <end>147</end>
+    <entity_id>m.01jzhl</entity_id>
   </query>
   <query id="EL14_CMN_2470">
     <name>海南</name>
     <docid>PDA_CMN_20061128.0124</docid>
     <beg>152</beg>
     <end>153</end>
+    <entity_id>m.09jd5v</entity_id>
   </query>
   <query id="EL14_CMN_2471">
     <name>交通大学</name>
     <docid>XIN_CMN_19980412.0018</docid>
     <beg>244</beg>
     <end>247</end>
+    <entity_id>m.0dk5qq</entity_id>
   </query>
   <query id="EL14_CMN_2472">
     <name>胡哥</name>
     <docid>bolt-cmn-DF-205-185863-592495</docid>
     <beg>657</beg>
     <end>658</end>
+    <entity_id>m.013my_</entity_id>
   </query>
   <query id="EL14_CMN_2473">
     <name>道琼斯金融通讯社</name>
     <docid>bolt-cmn-DF-205-185863-587125</docid>
     <beg>11781</beg>
     <end>11788</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2474">
     <name>大使馆</name>
     <docid>XIN_CMN_19980731.0025</docid>
     <beg>267</beg>
     <end>269</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2475">
     <name>协和</name>
     <docid>GMW_CMN_20090824.0329</docid>
     <beg>139</beg>
     <end>140</end>
-  </query>
-  <query id="EL14_CMN_2476">
-    <name>Sun Yat- sen</name>
-    <docid>XIN_ENG_20101223.0280</docid>
-    <beg>501</beg>
-    <end>512</end>
+    <entity_id>m.04dzl2n</entity_id>
   </query>
   <query id="EL14_CMN_2477">
     <name>郑</name>
     <docid>XIN_CMN_20070506.0104</docid>
     <beg>175</beg>
     <end>175</end>
-  </query>
-  <query id="EL14_CMN_2478">
-    <name>Ningxia</name>
-    <docid>bolt-eng-DF-212-191667-3079726</docid>
-    <beg>39384</beg>
-    <end>39390</end>
+    <entity_id>m.01q9zs</entity_id>
   </query>
   <query id="EL14_CMN_2479">
     <name>不抵抗将军</name>
     <docid>bolt-cmn-DF-20-191614-19987777</docid>
     <beg>2406</beg>
     <end>2410</end>
+    <entity_id>m.089hk</entity_id>
   </query>
   <query id="EL14_CMN_2480">
     <name>菲哥</name>
     <docid>CNA_CMN_20100316.0367</docid>
     <beg>190</beg>
     <end>191</end>
+    <entity_id>m.0626d9</entity_id>
   </query>
   <query id="EL14_CMN_2481">
     <name>宣化</name>
     <docid>PDA_CMN_20070719.0135</docid>
     <beg>163</beg>
     <end>164</end>
+    <entity_id>m.0267q5_</entity_id>
   </query>
   <query id="EL14_CMN_2482">
     <name>国父</name>
     <docid>bolt-cmn-DF-205-185863-154364</docid>
     <beg>213</beg>
     <end>214</end>
+    <entity_id>m.0m56y</entity_id>
   </query>
   <query id="EL14_CMN_2483">
     <name>儿童医院</name>
     <docid>CNS_CMN_20101021.0233</docid>
     <beg>2051</beg>
     <end>2054</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2484">
     <name>秀英</name>
     <docid>XIN_CMN_20010216.0015</docid>
     <beg>399</beg>
     <end>400</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2485">
     <name>陈志朋</name>
     <docid>bolt-cmn-DF-205-185862-199383</docid>
     <beg>1729</beg>
     <end>1731</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2486">
     <name>科比・布赖恩特</name>
     <docid>XIN_CMN_19980424.0124</docid>
     <beg>270</beg>
     <end>276</end>
+    <entity_id>m.01kmd4</entity_id>
   </query>
   <query id="EL14_CMN_2487">
     <name>李白</name>
