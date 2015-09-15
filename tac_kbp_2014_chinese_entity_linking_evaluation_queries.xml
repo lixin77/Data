@@ -15078,7 +15078,7 @@
     <docid>XIN_CMN_19980731.0025</docid>
     <beg>297</beg>
     <end>299</end>
-    <entity_id>m.0478__m</entity_id>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2513">
     <name>不列颠及 北爱尔兰联合王国</name>
@@ -15316,7 +15316,7 @@
     <docid>CNS_CMN_20100920.0962</docid>
     <beg>158</beg>
     <end>160</end>
-    <entity_id>m.02gyq</entity_id>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2552">
     <name>张局</name>
@@ -15505,7 +15505,7 @@
     <docid>XIN_CMN_19960703.0001</docid>
     <beg>165</beg>
     <end>167</end>
-    <entity_id>m.02gyq</entity_id>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2586">
     <name>昂山素季</name>
@@ -16086,7 +16086,7 @@
     <docid>PDA_CMN_20061122.0230</docid>
     <beg>184</beg>
     <end>186</end>
-    <entity_id>m.02gyq</entity_id>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2684">
     <name>秋官</name>
