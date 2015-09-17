@@ -14493,312 +14493,294 @@
     <docid>bolt-cmn-DF-205-185862-156777</docid>
     <beg>58</beg>
     <end>60</end>
+    <entity_id>m.06ff60</entity_id>
   </query>
   <query id="EL14_CMN_2416">
     <name>金平</name>
     <docid>PLA_CMN_20091126.0051</docid>
     <beg>141</beg>
     <end>142</end>
-  </query>
-  <query id="EL14_CMN_2417">
-    <name>Wuhan University</name>
-    <docid>APW_ENG_20091101.0073</docid>
-    <beg>1773</beg>
-    <end>1788</end>
+    <entity_id>m.0805hvh</entity_id>
   </query>
   <query id="EL14_CMN_2418">
     <name>东兴</name>
     <docid>XIN_CMN_19920611.0196</docid>
     <beg>151</beg>
     <end>152</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2419">
     <name>姚晨</name>
     <docid>bolt-cmn-DF-182-192231-4900944</docid>
     <beg>924</beg>
     <end>925</end>
+    <entity_id>m.0d27_dy</entity_id>
   </query>
   <query id="EL14_CMN_2420">
     <name>总工会</name>
     <docid>XIN_CMN_19981204.0068</docid>
     <beg>187</beg>
     <end>189</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2421">
     <name>作协</name>
     <docid>PDA_CMN_20091010.0380</docid>
     <beg>136</beg>
     <end>137</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2422">
     <name>协和</name>
     <docid>XIN_CMN_19940118.0173</docid>
     <beg>742</beg>
     <end>743</end>
+    <entity_id>m.0cp4nxf</entity_id>
   </query>
   <query id="EL14_CMN_2423">
     <name>朱老总</name>
     <docid>bolt-cmn-DF-21-181071-99766</docid>
     <beg>2783</beg>
     <end>2785</end>
+    <entity_id>m.01hljt</entity_id>
   </query>
   <query id="EL14_CMN_2424">
     <name>上证所</name>
     <docid>bolt-cmn-DF-205-185867-262427</docid>
     <beg>14161</beg>
     <end>14163</end>
+    <entity_id>m.04xjz4</entity_id>
   </query>
   <query id="EL14_CMN_2425">
     <name>柏阿姨</name>
     <docid>bolt-cmn-DF-205-185862-180716</docid>
     <beg>292</beg>
     <end>294</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2426">
     <name>李超人</name>
     <docid>CNS_CMN_20100222.0928</docid>
     <beg>554</beg>
     <end>556</end>
+    <entity_id>m.01pfdg</entity_id>
   </query>
   <query id="EL14_CMN_2427">
     <name>大威廉姆斯</name>
     <docid>bolt-cmn-DF-211-187152-4424381</docid>
     <beg>2319</beg>
     <end>2323</end>
+    <entity_id>m.016cff</entity_id>
   </query>
   <query id="EL14_CMN_2428">
     <name>影帝</name>
     <docid>bolt-cmn-DF-205-185863-574251</docid>
     <beg>509</beg>
     <end>510</end>
+    <entity_id>m.01f6g3</entity_id>
   </query>
   <query id="EL14_CMN_2429">
     <name>汤姆克鲁斯</name>
     <docid>AFP_CMN_20080121.0034</docid>
     <beg>166</beg>
     <end>170</end>
-  </query>
-  <query id="EL14_CMN_2430">
-    <name>Dover</name>
-    <docid>AFP_ENG_20090831.0029</docid>
-    <beg>350</beg>
-    <end>354</end>
+    <entity_id>m.07r1h</entity_id>
   </query>
   <query id="EL14_CMN_2431">
     <name>总工会</name>
     <docid>XIN_CMN_19990121.0101</docid>
     <beg>628</beg>
     <end>630</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2432">
     <name>京师大学堂师范馆</name>
     <docid>XIN_CMN_20011006.0052</docid>
     <beg>455</beg>
     <end>462</end>
+    <entity_id>m.03p96_</entity_id>
   </query>
   <query id="EL14_CMN_2433">
     <name>邱毅</name>
     <docid>bolt-cmn-DF-205-185863-147914</docid>
     <beg>653</beg>
     <end>654</end>
-  </query>
-  <query id="EL14_CMN_2434">
-    <name>San Francisco</name>
-    <docid>XIN_ENG_20100630.0217</docid>
-    <beg>597</beg>
-    <end>609</end>
+    <entity_id>m.0dgndz</entity_id>
   </query>
   <query id="EL14_CMN_2435">
     <name>宋子文</name>
     <docid>bolt-cmn-DF-211-187115-4410490</docid>
     <beg>2397</beg>
     <end>2399</end>
+    <entity_id>m.01z0fw</entity_id>
   </query>
   <query id="EL14_CMN_2436">
     <name>邓太宗</name>
     <docid>bolt-cmn-DF-205-185863-592461</docid>
     <beg>1249</beg>
     <end>1251</end>
-  </query>
-  <query id="EL14_CMN_2437">
-    <name>Alabama</name>
-    <docid>APW_ENG_20091110.0502</docid>
-    <beg>183</beg>
-    <end>189</end>
+    <entity_id>m.028_0</entity_id>
   </query>
   <query id="EL14_CMN_2438">
     <name>江苏</name>
     <docid>bolt-cmn-DF-20-191613-3834856</docid>
     <beg>1589</beg>
     <end>1590</end>
-  </query>
-  <query id="EL14_CMN_2439">
-    <name>the king of rock 'n' roll</name>
-    <docid>APW_ENG_20100815.0535</docid>
-    <beg>271</beg>
-    <end>295</end>
-  </query>
-  <query id="EL14_CMN_2440">
-    <name>P&amp;amp;G</name>
-    <docid>AFP_ENG_20090824.0255</docid>
-    <beg>115</beg>
-    <end>121</end>
-  </query>
-  <query id="EL14_CMN_2441">
-    <name>Stefani Joanne Angelina Germanotta</name>
-    <docid>NYT_ENG_20101028.0130</docid>
-    <beg>133</beg>
-    <end>166</end>
+    <entity_id>m.0166c7</entity_id>
   </query>
   <query id="EL14_CMN_2442">
     <name>昌吉</name>
     <docid>CNS_CMN_20100115.0533</docid>
     <beg>212</beg>
     <end>213</end>
+    <entity_id>m.06h13z</entity_id>
   </query>
   <query id="EL14_CMN_2443">
     <name>杨家庄</name>
     <docid>XIN_CMN_20070908.0211</docid>
     <beg>234</beg>
     <end>236</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2444">
     <name>邯郸</name>
     <docid>XIN_CMN_20040611.0045</docid>
     <beg>153</beg>
     <end>154</end>
-  </query>
-  <query id="EL14_CMN_2445">
-    <name>Verizon Communications</name>
-    <docid>APW_ENG_20100317.0001</docid>
-    <beg>248</beg>
-    <end>269</end>
+    <entity_id>m.04xtcd</entity_id>
   </query>
   <query id="EL14_CMN_2446">
     <name>新安</name>
     <docid>CNS_CMN_20100429.0321</docid>
     <beg>152</beg>
     <end>153</end>
+    <entity_id>m.0263nbr</entity_id>
   </query>
   <query id="EL14_CMN_2447">
     <name>大姚姚</name>
     <docid>bolt-cmn-DF-211-187144-4887373</docid>
     <beg>169</beg>
     <end>171</end>
+    <entity_id>m.0d27_dy</entity_id>
   </query>
   <query id="EL14_CMN_2448">
     <name>季辛吉</name>
     <docid>AFP_CMN_20041117.0044</docid>
     <beg>174</beg>
     <end>176</end>
+    <entity_id>m.03k_f</entity_id>
   </query>
   <query id="EL14_CMN_2449">
     <name>北师大</name>
     <docid>PDA_CMN_20091115.0057</docid>
     <beg>58</beg>
     <end>60</end>
+    <entity_id>m.030pmc</entity_id>
   </query>
   <query id="EL14_CMN_2450">
     <name>和平</name>
     <docid>XIN_CMN_19961106.0063</docid>
     <beg>195</beg>
     <end>196</end>
+    <entity_id>m.030pmc</entity_id>
   </query>
   <query id="EL14_CMN_2451">
     <name>星仔</name>
     <docid>bolt-cmn-DF-211-187144-4885419</docid>
     <beg>2786</beg>
     <end>2787</end>
+    <entity_id>m.02mz_6</entity_id>
   </query>
   <query id="EL14_CMN_2452">
     <name>金門</name>
     <docid>CNA_CMN_20100217.0122</docid>
     <beg>177</beg>
     <end>178</end>
+    <entity_id>m.015vxq</entity_id>
   </query>
   <query id="EL14_CMN_2453">
     <name>威廉姆斯</name>
     <docid>XIN_CMN_20070101.0117</docid>
     <beg>119</beg>
     <end>122</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2454">
     <name>乔治・H・W・布什</name>
     <docid>PDA_CMN_20061114.0223</docid>
     <beg>177</beg>
     <end>185</end>
+    <entity_id>m.034ls</entity_id>
   </query>
   <query id="EL14_CMN_2455">
     <name>老蒋</name>
     <docid>bolt-cmn-DF-20-191613-3837119</docid>
     <beg>13205</beg>
     <end>13206</end>
+    <entity_id>m.01_4z</entity_id>
   </query>
   <query id="EL14_CMN_2456">
     <name>残联</name>
     <docid>PDA_CMN_20080424.0321</docid>
     <beg>198</beg>
     <end>199</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2457">
     <name>昌江</name>
     <docid>CNA_CMN_20100421.0230</docid>
     <beg>270</beg>
     <end>271</end>
+    <entity_id>m.04n6fqh</entity_id>
   </query>
   <query id="EL14_CMN_2458">
     <name>阿诺・施瓦辛格</name>
     <docid>PDA_CMN_20070208.0228</docid>
     <beg>181</beg>
     <end>187</end>
-  </query>
-  <query id="EL14_CMN_2459">
-    <name>MONTPELIER</name>
-    <docid>APW_ENG_20100428.0778</docid>
-    <beg>119</beg>
-    <end>128</end>
+    <entity_id>m.0tc7</entity_id>
   </query>
   <query id="EL14_CMN_2460">
     <name>并州</name>
     <docid>XIN_CMN_20010709.0138</docid>
     <beg>208</beg>
     <end>209</end>
-  </query>
-  <query id="EL14_CMN_2461">
-    <name>Chevron</name>
-    <docid>AFP_ENG_20090610.0778</docid>
-    <beg>89</beg>
-    <end>95</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2462">
     <name>汤姆汉克斯</name>
     <docid>bolt-cmn-DF-196-185692-2815584</docid>
     <beg>342</beg>
     <end>346</end>
+    <entity_id>m.0bxtg</entity_id>
   </query>
   <query id="EL14_CMN_2463">
     <name>小翔子</name>
     <docid>bolt-cmn-DF-20-191610-2215894</docid>
     <beg>3020</beg>
     <end>3022</end>
+    <entity_id>m.03kt92</entity_id>
   </query>
   <query id="EL14_CMN_2464">
     <name>三江师范学堂</name>
     <docid>XIN_CMN_20020512.0037</docid>
     <beg>328</beg>
     <end>333</end>
+    <entity_id>m.02w5h4</entity_id>
   </query>
   <query id="EL14_CMN_2465">
     <name>总工会</name>
     <docid>CNS_CMN_20091123.0765</docid>
     <beg>443</beg>
     <end>445</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2466">
     <name>经国先生</name>
     <docid>PDA_CMN_20080114.0161</docid>
     <beg>151</beg>
     <end>154</end>
+    <entity_id>m.0gljh</entity_id>
   </query>
   <query id="EL14_CMN_2467">
     <name>小辉</name>
