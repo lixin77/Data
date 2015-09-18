@@ -14421,66 +14421,77 @@
     <docid>CNS_CMN_20090825.1782</docid>
     <beg>165</beg>
     <end>171</end>
+    <entity_id>m.01jz6d</entity_id>
   </query>
   <query id="EL14_CMN_2404">
     <name>妇联</name>
     <docid>XIN_CMN_19940516.0182</docid>
     <beg>109</beg>
     <end>110</end>
+    <entity_id>m.08__ww</entity_id>
   </query>
   <query id="EL14_CMN_2405">
     <name>范爷</name>
     <docid>bolt-cmn-DF-182-192231-4911151</docid>
     <beg>344</beg>
     <end>345</end>
+    <entity_id>m.09wn3y</entity_id>
   </query>
   <query id="EL14_CMN_2406">
     <name>广宁</name>
     <docid>XIN_CMN_20000118.0085</docid>
     <beg>152</beg>
     <end>153</end>
+    <entity_id>m.06g_s9</entity_id>
   </query>
   <query id="EL14_CMN_2407">
     <name>杨家庄</name>
     <docid>PDA_CMN_20070408.0044</docid>
     <beg>164</beg>
     <end>166</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2408">
     <name>张国荣</name>
     <docid>bolt-cmn-DF-182-192231-4903825</docid>
     <beg>7098</beg>
     <end>7100</end>
+    <entity_id>m.01d1yr</entity_id>
   </query>
   <query id="EL14_CMN_2409">
     <name>孔圣人</name>
     <docid>XIN_CMN_20100104.0164</docid>
     <beg>338</beg>
     <end>340</end>
+    <entity_id>m.01rll</entity_id>
   </query>
   <query id="EL14_CMN_2410">
     <name>北京卫视</name>
     <docid>GMW_CMN_20100927.0017</docid>
     <beg>195</beg>
     <end>198</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2411">
     <name>儿童医院</name>
     <docid>XIN_CMN_20061121.0040</docid>
     <beg>272</beg>
     <end>275</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2412">
     <name>蔡康永</name>
     <docid>bolt-cmn-DF-182-192231-21932734</docid>
     <beg>916</beg>
     <end>918</end>
+    <entity_id>m.03mb__6</entity_id>
   </query>
   <query id="EL14_CMN_2414">
     <name>檀香山</name>
     <docid>XIN_CMN_20080201.0078</docid>
     <beg>107</beg>
     <end>109</end>
+    <entity_id>m.02hrh0_</entity_id>
   </query>
   <query id="EL14_CMN_2415">
     <name>习近平</name>
