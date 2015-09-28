@@ -14241,180 +14241,168 @@
     <docid>bolt-cmn-DF-182-192249-6415794</docid>
     <beg>476</beg>
     <end>481</end>
+    <entity_id>m.01d_ys</entity_id>
   </query>
   <query id="EL14_CMN_2374">
     <name>秀英</name>
     <docid>XIN_CMN_20060723.0143</docid>
     <beg>155</beg>
     <end>156</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2375">
     <name>汤姆汉克斯</name>
     <docid>bolt-cmn-DF-182-192231-21933375</docid>
     <beg>3052</beg>
     <end>3056</end>
+    <entity_id>m.0bxtg</entity_id>
   </query>
   <query id="EL14_CMN_2376">
     <name>交通大学</name>
     <docid>XIN_CMN_19980412.0018</docid>
     <beg>288</beg>
     <end>291</end>
+    <entity_id>m.03pxkc</entity_id>
   </query>
   <query id="EL14_CMN_2377">
     <name>大使馆</name>
     <docid>XIN_CMN_19950117.0008</docid>
     <beg>186</beg>
     <end>188</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2378">
     <name>斯大林</name>
     <docid>XIN_CMN_20091222.0075</docid>
     <beg>68</beg>
     <end>70</end>
-  </query>
-  <query id="EL14_CMN_2379">
-    <name>NATO</name>
-    <docid>bolt-eng-DF-170-181125-9104114</docid>
-    <beg>11482</beg>
-    <end>11485</end>
+    <entity_id>m.03_lf</entity_id>
   </query>
   <query id="EL14_CMN_2380">
     <name>居礼大学</name>
     <docid>AFP_CMN_20091031.0030</docid>
     <beg>814</beg>
     <end>817</end>
+    <entity_id>m.0ckgyh</entity_id>
   </query>
   <query id="EL14_CMN_2381">
     <name>协和</name>
     <docid>CNS_CMN_20100912.0317</docid>
     <beg>554</beg>
     <end>555</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2382">
     <name>毛爷爷</name>
     <docid>bolt-cmn-DF-205-185858-1360741</docid>
     <beg>376</beg>
     <end>378</end>
+    <entity_id>m.04xzm</entity_id>
   </query>
   <query id="EL14_CMN_2383">
     <name>外交部</name>
     <docid>PDA_CMN_20080710.0079</docid>
     <beg>166</beg>
     <end>168</end>
-  </query>
-  <query id="EL14_CMN_2384">
-    <name>Lady Gaga</name>
-    <docid>APW_ENG_20100913.0117</docid>
-    <beg>339</beg>
-    <end>347</end>
-  </query>
-  <query id="EL14_CMN_2385">
-    <name>Bloomberg Business News - MSN Money&lt;/a&gt;</name>
-    <docid>bolt-eng-DF-170-181103-8891287</docid>
-    <beg>320</beg>
-    <end>358</end>
+    <entity_id>m.02626pc</entity_id>
   </query>
   <query id="EL14_CMN_2386">
     <name>小平</name>
     <docid>XIN_CMN_19970323.0007</docid>
     <beg>491</beg>
     <end>492</end>
+    <entity_id>m.028_0</entity_id>
   </query>
   <query id="EL14_CMN_2387">
     <name>侨联</name>
     <docid>PDA_CMN_20061106.4122</docid>
     <beg>239</beg>
     <end>240</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2388">
     <name>外务省</name>
     <docid>XIN_CMN_20040417.0031</docid>
     <beg>168</beg>
     <end>170</end>
+    <entity_id>m.03k0qv</entity_id>
   </query>
   <query id="EL14_CMN_2389">
     <name>麻省</name>
     <docid>CNS_CMN_20100120.1104</docid>
     <beg>213</beg>
     <end>214</end>
+    <entity_id>m.05k7sb</entity_id>
   </query>
   <query id="EL14_CMN_2390">
     <name>谢依霖</name>
     <docid>bolt-cmn-DF-205-185862-170694</docid>
     <beg>194</beg>
     <end>196</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2391">
     <name>叶尔钦</name>
     <docid>AFP_CMN_20001209.0009</docid>
     <beg>156</beg>
     <end>158</end>
-  </query>
-  <query id="EL14_CMN_2392">
-    <name>Washington</name>
-    <docid>AFP_ENG_20091129.0118</docid>
-    <beg>131</beg>
-    <end>140</end>
+    <entity_id>m.01krs</entity_id>
   </query>
   <query id="EL14_CMN_2393">
     <name>福特汽车公司</name>
     <docid>XIN_CMN_20061026.0057</docid>
     <beg>299</beg>
     <end>304</end>
+    <entity_id>m.02zs4</entity_id>
   </query>
   <query id="EL14_CMN_2394">
     <name>密西西比</name>
     <docid>CNA_CMN_20100602.0020</docid>
     <beg>64</beg>
     <end>67</end>
+    <entity_id>m.04tgp</entity_id>
   </query>
   <query id="EL14_CMN_2395">
     <name>总 工会</name>
     <docid>XIN_CMN_20070522.0163</docid>
     <beg>437</beg>
     <end>440</end>
-  </query>
-  <query id="EL14_CMN_2396">
-    <name>embassy</name>
-    <docid>XIN_ENG_20100422.0367</docid>
-    <beg>467</beg>
-    <end>473</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2397">
     <name>马英九</name>
     <docid>bolt-cmn-DF-205-185863-149505</docid>
     <beg>534</beg>
     <end>536</end>
-  </query>
-  <query id="EL14_CMN_2398">
-    <name>Dover</name>
-    <docid>NYT_ENG_20100320.0107</docid>
-    <beg>3731</beg>
-    <end>3735</end>
+    <entity_id>m.014d02</entity_id>
   </query>
   <query id="EL14_CMN_2399">
     <name>澳大利亚</name>
     <docid>bolt-cmn-DF-196-185667-2980926</docid>
     <beg>5207</beg>
     <end>5210</end>
+    <entity_id>m.0chghy</entity_id>
   </query>
   <query id="EL14_CMN_2400">
     <name>清华大学</name>
     <docid>bolt-cmn-DF-20-191622-4017039</docid>
     <beg>4602</beg>
     <end>4605</end>
+    <entity_id>m.0jksm</entity_id>
   </query>
   <query id="EL14_CMN_2401">
     <name>蒋介石</name>
     <docid>PDA_CMN_20061220.0431</docid>
     <beg>152</beg>
     <end>154</end>
+    <entity_id>m.01_4z</entity_id>
   </query>
   <query id="EL14_CMN_2402">
     <name>中新社</name>
     <docid>bolt-cmn-DF-21-181074-1410</docid>
     <beg>20461</beg>
     <end>20463</end>
+    <entity_id>m.01xln8</entity_id>
   </query>
   <query id="EL14_CMN_2403">
     <name>勒布朗·詹姆斯</name>
