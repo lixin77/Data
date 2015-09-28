@@ -14181,60 +14181,63 @@
     <docid>AFP_CMN_20091030.0031</docid>
     <beg>67</beg>
     <end>68</end>
+    <entity_id>m.06qd3</entity_id>
   </query>
   <query id="EL14_CMN_2364">
     <name>Florida</name>
     <docid>AFP_CMN_20100111.0011</docid>
     <beg>195</beg>
     <end>201</end>
+    <entity_id>m.02xry</entity_id>
   </query>
   <query id="EL14_CMN_2365">
     <name>汪精卫</name>
     <docid>CNS_CMN_20091011.0293</docid>
     <beg>181</beg>
     <end>183</end>
-  </query>
-  <query id="EL14_CMN_2366">
-    <name>Arkansas</name>
-    <docid>APW_ENG_20100609.0112</docid>
-    <beg>169</beg>
-    <end>176</end>
+    <entity_id>m.0x2w0</entity_id>
   </query>
   <query id="EL14_CMN_2367">
     <name>阿克苏</name>
     <docid>PDA_CMN_20101129.0158</docid>
     <beg>162</beg>
     <end>164</end>
+    <entity_id>m.03l3mc</entity_id>
   </query>
   <query id="EL14_CMN_2368">
     <name>城中</name>
     <docid>XIN_CMN_19991229.0029</docid>
     <beg>151</beg>
     <end>152</end>
+    <entity_id>m.08075fl</entity_id>
   </query>
   <query id="EL14_CMN_2369">
     <name>黄山</name>
     <docid>XIN_CMN_19930207.0103</docid>
     <beg>148</beg>
     <end>149</end>
+    <entity_id>m.072xn7</entity_id>
   </query>
   <query id="EL14_CMN_2370">
     <name>杨家庄</name>
     <docid>CNS_CMN_20090810.0296</docid>
     <beg>179</beg>
     <end>181</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2371">
     <name>外交部</name>
     <docid>XIN_CMN_20060429.0168</docid>
     <beg>162</beg>
     <end>164</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2372">
     <name>广东大学</name>
     <docid>XIN_CMN_20011118.0068</docid>
     <beg>201</beg>
     <end>204</end>
+    <entity_id>m.02nnzy</entity_id>
   </query>
   <query id="EL14_CMN_2373">
     <name>沃伦·巴菲特</name>
