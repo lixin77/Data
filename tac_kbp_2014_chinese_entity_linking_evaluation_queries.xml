@@ -14001,90 +14001,91 @@
     <docid>XIN_CMN_20040418.0181</docid>
     <beg>156</beg>
     <end>157</end>
+    <entity_id>m.0230wx</entity_id>
   </query>
   <query id="EL14_CMN_2334">
     <name>国立中央大学</name>
     <docid>XIN_CMN_20020512.0037</docid>
     <beg>370</beg>
     <end>375</end>
+    <entity_id>m.02w5h4</entity_id>
   </query>
   <query id="EL14_CMN_2335">
     <name>宋美龄</name>
     <docid>bolt-cmn-DF-211-187115-4411385</docid>
     <beg>167</beg>
     <end>169</end>
+    <entity_id>m.0160nk</entity_id>
   </query>
   <query id="EL14_CMN_2336">
     <name>Tulane University</name>
     <docid>CNA_CMN_20100917.0298</docid>
     <beg>363</beg>
     <end>379</end>
+    <entity_id>m.0160nk</entity_id>
   </query>
   <query id="EL14_CMN_2337">
     <name>宁海</name>
     <docid>XIN_CMN_20020419.0078</docid>
     <beg>169</beg>
     <end>170</end>
-  </query>
-  <query id="EL14_CMN_2338">
-    <name>Cambodia</name>
-    <docid>AFP_ENG_20091113.0700</docid>
-    <beg>89</beg>
-    <end>96</end>
+    <entity_id>m.04g0k1x</entity_id>
   </query>
   <query id="EL14_CMN_2339">
     <name>马英九</name>
     <docid>bolt-cmn-DF-20-191611-3863324</docid>
     <beg>208</beg>
     <end>210</end>
-  </query>
-  <query id="EL14_CMN_2340">
-    <name>Ford Motor Co.</name>
-    <docid>AFP_ENG_20090901.0195</docid>
-    <beg>188</beg>
-    <end>201</end>
+    <entity_id>m.014d02</entity_id>
   </query>
   <query id="EL14_CMN_2341">
     <name>妇联</name>
     <docid>XIN_CMN_20000406.0143</docid>
     <beg>158</beg>
     <end>159</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2342">
     <name>文联</name>
     <docid>XIN_CMN_20051015.0053</docid>
     <beg>518</beg>
     <end>519</end>
+    <entity_id>m.0gjf22y</entity_id>
   </query>
   <query id="EL14_CMN_2343">
     <name>东乡</name>
     <docid>CNS_CMN_20091103.0945</docid>
     <beg>282</beg>
     <end>283</end>
+    <entity_id>m.064lzsm</entity_id>
   </query>
   <query id="EL14_CMN_2344">
     <name>文联</name>
     <docid>bolt-cmn-DF-205-185862-163968</docid>
     <beg>1867</beg>
     <end>1868</end>
+    <entity_id>m.0gjf22y</entity_id>
   </query>
   <query id="EL14_CMN_2345">
     <name>马特首</name>
     <docid>bolt-cmn-DF-205-185863-589790</docid>
     <beg>5255</beg>
     <end>5257</end>
+    <entity_id>m.014d02</entity_id>
   </query>
   <query id="EL14_CMN_2346">
     <name>大鲨鱼</name>
     <docid>bolt-cmn-DF-196-185723-2519962</docid>
     <beg>2533</beg>
     <end>2535</end>
+    <entity_id>m.012xdf</entity_id>
   </query>
   <query id="EL14_CMN_2347">
     <name>杨怀定</name>
     <docid>PDA_CMN_20100811.0323</docid>
     <beg>188</beg>
     <end>190</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2348">
     <name>汤姆克鲁斯</name>
