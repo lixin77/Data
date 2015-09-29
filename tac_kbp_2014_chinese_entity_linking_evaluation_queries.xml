@@ -14091,90 +14091,98 @@
     <docid>bolt-cmn-DF-211-187115-4410741</docid>
     <beg>668</beg>
     <end>672</end>
+    <entity_id>m.07r1h</entity_id>
   </query>
   <query id="EL14_CMN_2349">
     <name>贺军翔</name>
     <docid>bolt-cmn-DF-196-185692-2817737</docid>
     <beg>692</beg>
     <end>694</end>
+    <entity_id>m.02wvft6</entity_id>
   </query>
   <query id="EL14_CMN_2350">
     <name>交大</name>
     <docid>XIN_CMN_19960408.0072</docid>
     <beg>270</beg>
     <end>271</end>
-  </query>
-  <query id="EL14_CMN_2351">
-    <name>Taiyuan</name>
-    <docid>XIN_ENG_20100823.0356</docid>
-    <beg>222</beg>
-    <end>228</end>
+    <entity_id>m.03pxkc</entity_id>
   </query>
   <query id="EL14_CMN_2352">
     <name>清华</name>
     <docid>XIN_CMN_20050510.0251</docid>
     <beg>227</beg>
     <end>228</end>
+    <entity_id>m.01dylk</entity_id>
   </query>
   <query id="EL14_CMN_2353">
     <name>英山</name>
     <docid>XIN_CMN_19980304.0112</docid>
     <beg>356</beg>
     <end>357</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2354">
     <name>保德信金融集團</name>
     <docid>CNA_CMN_20100922.0292</docid>
     <beg>180</beg>
     <end>186</end>
+    <entity_id>m.04fd36</entity_id>
   </query>
   <query id="EL14_CMN_2355">
     <name>大使馆</name>
     <docid>PDA_CMN_20100615.0055</docid>
     <beg>144</beg>
     <end>146</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2356">
     <name>富兰克林・罗斯福</name>
     <docid>PDA_CMN_20080327.0235</docid>
     <beg>135</beg>
     <end>142</end>
+    <entity_id>m.02yy8</entity_id>
   </query>
   <query id="EL14_CMN_2357">
     <name>残联</name>
     <docid>CNS_CMN_20100513.0457</docid>
     <beg>485</beg>
     <end>486</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2358">
     <name>儿童医院</name>
     <docid>XIN_CMN_19910823.0025</docid>
     <beg>176</beg>
     <end>179</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2359">
     <name>郎平</name>
     <docid>XIN_CMN_19950222.0019</docid>
     <beg>148</beg>
     <end>149</end>
+    <entity_id>m.054snz</entity_id>
   </query>
   <query id="EL14_CMN_2360">
     <name>柯林顿</name>
     <docid>AFP_CMN_20100212.0045</docid>
     <beg>137</beg>
     <end>139</end>
+    <entity_id>m.0157m</entity_id>
   </query>
   <query id="EL14_CMN_2361">
     <name>希拉蕊</name>
     <docid>AFP_CMN_20061204.0010</docid>
     <beg>273</beg>
     <end>275</end>
+    <entity_id>m.0d06m5</entity_id>
   </query>
   <query id="EL14_CMN_2362">
     <name>东山</name>
     <docid>XIN_CMN_20050929.0162</docid>
     <beg>238</beg>
     <end>239</end>
+    <entity_id>m.05p30xj</entity_id>
   </query>
   <query id="EL14_CMN_2363">
     <name>南韩</name>
