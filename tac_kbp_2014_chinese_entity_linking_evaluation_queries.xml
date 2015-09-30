@@ -13881,114 +13881,112 @@
     <docid>PDA_CMN_20070726.0241</docid>
     <beg>237</beg>
     <end>238</end>
+    <entity_id>m.05l5n</entity_id>
   </query>
   <query id="EL14_CMN_2314">
     <name>曹操</name>
     <docid>bolt-cmn-DF-196-185667-2982088</docid>
     <beg>601</beg>
     <end>602</end>
+    <entity_id>m.01k1pl</entity_id>
   </query>
   <query id="EL14_CMN_2315">
     <name>超级丹</name>
     <docid>bolt-cmn-DF-211-187152-4446306</docid>
     <beg>75</beg>
     <end>77</end>
+    <entity_id>m.03nl67</entity_id>
   </query>
   <query id="EL14_CMN_2316">
     <name>麦当娜</name>
     <docid>bolt-cmn-DF-196-185692-2814221</docid>
     <beg>472</beg>
     <end>474</end>
+    <entity_id>m.01vs_v8</entity_id>
   </query>
   <query id="EL14_CMN_2317">
     <name>大连</name>
     <docid>XIN_CMN_20010216.0114</docid>
     <beg>140</beg>
     <end>141</end>
+    <entity_id>m.01l3k6</entity_id>
   </query>
   <query id="EL14_CMN_2318">
     <name>城</name>
     <docid>PDA_CMN_20070322.0087</docid>
     <beg>184</beg>
     <end>184</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2319">
     <name>协和</name>
     <docid>CNS_CMN_20100419.0010</docid>
     <beg>539</beg>
     <end>540</end>
-  </query>
-  <query id="EL14_CMN_2320">
-    <name>Chang Tso-lin</name>
-    <docid>CNA_ENG_20090604.0022</docid>
-    <beg>525</beg>
-    <end>537</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2321">
     <name>齐达内</name>
     <docid>PDA_CMN_20061112.0094</docid>
     <beg>177</beg>
     <end>179</end>
+    <entity_id>m.0kcv4</entity_id>
   </query>
   <query id="EL14_CMN_2322">
     <name>总工会</name>
     <docid>XIN_CMN_20061012.0098</docid>
     <beg>201</beg>
     <end>203</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2323">
     <name>金三胖子</name>
     <docid>bolt-cmn-DF-182-192251-6381629</docid>
     <beg>1114</beg>
     <end>1117</end>
+    <entity_id>m.0fgw19</entity_id>
   </query>
   <query id="EL14_CMN_2324">
     <name>Northeastern University</name>
     <docid>PDA_CMN_20101110.0390</docid>
     <beg>888</beg>
     <end>910</end>
+    <entity_id>m.0225v9</entity_id>
   </query>
   <query id="EL14_CMN_2325">
     <name>平阳</name>
     <docid>CNS_CMN_20101223.0014</docid>
     <beg>452</beg>
     <end>453</end>
+    <entity_id>m.03r3vq</entity_id>
   </query>
   <query id="EL14_CMN_2326">
     <name>喀什</name>
     <docid>XIN_CMN_20081217.0250</docid>
     <beg>150</beg>
     <end>151</end>
-  </query>
-  <query id="EL14_CMN_2327">
-    <name>Toronto</name>
-    <docid>AFP_ENG_20100623.0437</docid>
-    <beg>89</beg>
-    <end>95</end>
+    <entity_id>m.0m0hc</entity_id>
   </query>
   <query id="EL14_CMN_2328">
     <name>曹孟德</name>
     <docid>bolt-cmn-DF-205-185862-679313</docid>
     <beg>2577</beg>
     <end>2579</end>
+    <entity_id>m.01k1pl</entity_id>
   </query>
   <query id="EL14_CMN_2329">
     <name>朱德</name>
     <docid>bolt-cmn-DF-20-191613-3837406</docid>
     <beg>839</beg>
     <end>840</end>
-  </query>
-  <query id="EL14_CMN_2330">
-    <name>North Atlantic Treaty Organization</name>
-    <docid>bolt-eng-DF-170-181125-9134744</docid>
-    <beg>628</beg>
-    <end>661</end>
+    <entity_id>m.01hljt</entity_id>
   </query>
   <query id="EL14_CMN_2331">
     <name>普丁</name>
     <docid>AFP_CMN_20010329.0005</docid>
     <beg>155</beg>
     <end>156</end>
+    <entity_id>m.08193</entity_id>
   </query>
   <query id="EL14_CMN_2332">
     <name>薄熙来</name>
