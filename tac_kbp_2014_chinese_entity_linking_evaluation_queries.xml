@@ -13551,162 +13551,154 @@
     <docid>bolt-cmn-DF-182-192231-4921359</docid>
     <beg>1693</beg>
     <end>1695</end>
+    <entity_id>m.01t2h2</entity_id>
   </query>
   <query id="EL14_CMN_2259">
     <name>朱由检</name>
     <docid>bolt-cmn-DF-211-187115-4399796</docid>
     <beg>5332</beg>
     <end>5334</end>
-  </query>
-  <query id="EL14_CMN_2260">
-    <name>Federal Reserve Bank</name>
-    <docid>bolt-eng-DF-170-181113-62804</docid>
-    <beg>436</beg>
-    <end>455</end>
+    <entity_id>m.022n5m</entity_id>
   </query>
   <query id="EL14_CMN_2261">
     <name>金三胖子</name>
     <docid>bolt-cmn-DF-196-185667-2989001</docid>
     <beg>3131</beg>
     <end>3134</end>
-  </query>
-  <query id="EL14_CMN_2262">
-    <name>CT</name>
-    <docid>bolt-eng-DF-203-185940-358929</docid>
-    <beg>7751</beg>
-    <end>7752</end>
+    <entity_id>m.0fgw19</entity_id>
   </query>
   <query id="EL14_CMN_2263">
     <name>林芝</name>
     <docid>GMW_CMN_20100322.0085</docid>
     <beg>162</beg>
     <end>163</end>
-  </query>
-  <query id="EL14_CMN_2264">
-    <name>Georgia</name>
-    <docid>AFP_ENG_20100316.0256</docid>
-    <beg>397</beg>
-    <end>403</end>
+    <entity_id>m.0b88m6</entity_id>
   </query>
   <query id="EL14_CMN_2265">
     <name>大使馆</name>
     <docid>AFP_CMN_20040412.0055</docid>
     <beg>157</beg>
     <end>159</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2266">
     <name>伊拉克</name>
     <docid>bolt-cmn-DF-21-181074-2172</docid>
     <beg>22216</beg>
     <end>22218</end>
-  </query>
-  <query id="EL14_CMN_2267">
-    <name>Jong Tae-se</name>
-    <docid>XIN_ENG_20100606.0112</docid>
-    <beg>307</beg>
-    <end>317</end>
+    <entity_id>m.0d05q4</entity_id>
   </query>
   <query id="EL14_CMN_2268">
     <name>外交部</name>
     <docid>XIN_CMN_19940901.0054</docid>
     <beg>125</beg>
     <end>127</end>
+    <entity_id>m.0nbgtfq</entity_id>
   </query>
   <query id="EL14_CMN_2269">
     <name>大哥</name>
     <docid>PDA_CMN_20080724.0125</docid>
     <beg>597</beg>
     <end>598</end>
+    <entity_id>m.012d40</entity_id>
   </query>
   <query id="EL14_CMN_2270">
     <name>妇幼保健院</name>
     <docid>CNS_CMN_20091103.0612</docid>
     <beg>161</beg>
     <end>165</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2271">
     <name>小甜甜</name>
     <docid>bolt-cmn-DF-196-185723-2494559</docid>
     <beg>301</beg>
     <end>303</end>
+    <entity_id>m.015f7</entity_id>
   </query>
   <query id="EL14_CMN_2272">
     <name>袁世凯</name>
     <docid>CNS_CMN_20101114.0150</docid>
     <beg>58</beg>
     <end>60</end>
+    <entity_id>m.0g4hq</entity_id>
   </query>
   <query id="EL14_CMN_2273">
     <name>文联</name>
     <docid>XIN_CMN_20010710.0115</docid>
     <beg>271</beg>
     <end>272</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2274">
     <name>儿童医院</name>
     <docid>XIN_CMN_19990521.0106</docid>
     <beg>288</beg>
     <end>291</end>
+    <entity_id>m.055p4f</entity_id>
   </query>
   <query id="EL14_CMN_2275">
     <name>妇幼保健院</name>
     <docid>XIN_CMN_19930613.0039</docid>
     <beg>96</beg>
     <end>100</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2276">
     <name>宋查理</name>
     <docid>bolt-cmn-DF-182-192251-6389448</docid>
     <beg>3203</beg>
     <end>3205</end>
+    <entity_id>m.01y_0t</entity_id>
   </query>
   <query id="EL14_CMN_2277">
     <name>中国纺织大学</name>
     <docid>bolt-cmn-DF-216-192653-6961889</docid>
     <beg>522</beg>
     <end>527</end>
+    <entity_id>m.03pxyn</entity_id>
   </query>
   <query id="EL14_CMN_2278">
     <name>陈老总</name>
     <docid>bolt-cmn-DF-20-191613-3833914</docid>
     <beg>62</beg>
     <end>64</end>
+    <entity_id>m.01sxz9</entity_id>
   </query>
   <query id="EL14_CMN_2279">
     <name>泰</name>
     <docid>bolt-cmn-DF-216-192653-6956537</docid>
     <beg>160</beg>
     <end>160</end>
+    <entity_id>m.07f1x</entity_id>
   </query>
   <query id="EL14_CMN_2280">
     <name>洪森</name>
     <docid>bolt-cmn-DF-205-185862-161849</docid>
     <beg>525</beg>
     <end>526</end>
+    <entity_id>m.0230wx</entity_id>
   </query>
   <query id="EL14_CMN_2281">
     <name>大使馆</name>
     <docid>CNS_CMN_20100330.0089</docid>
     <beg>158</beg>
     <end>160</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2282">
     <name>泰格伍兹</name>
     <docid>XIN_CMN_20060831.0133</docid>
     <beg>167</beg>
     <end>170</end>
+    <entity_id>m.0bwdn</entity_id>
   </query>
   <query id="EL14_CMN_2283">
     <name>范冰冰</name>
     <docid>bolt-cmn-DF-182-192231-4911151</docid>
     <beg>340</beg>
     <end>342</end>
-  </query>
-  <query id="EL14_CMN_2284">
-    <name>Hun Sen</name>
-    <docid>XIN_ENG_20101124.0041</docid>
-    <beg>349</beg>
-    <end>355</end>
+    <entity_id>m.09wn3y</entity_id>
   </query>
   <query id="EL14_CMN_2285">
     <name>连山</name>
