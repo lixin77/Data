@@ -13713,96 +13713,105 @@
     <docid>CNS_CMN_20100211.0295</docid>
     <beg>358</beg>
     <end>359</end>
+    <entity_id>m.09cc7q</entity_id>
   </query>
   <query id="EL14_CMN_2286">
     <name>习近平</name>
     <docid>bolt-cmn-DF-182-192251-6398502</docid>
     <beg>5087</beg>
     <end>5089</end>
+    <entity_id>m.06ff60</entity_id>
   </query>
   <query id="EL14_CMN_2287">
     <name>孔孙子</name>
     <docid>bolt-cmn-DF-21-181071-101631</docid>
     <beg>646</beg>
     <end>648</end>
+    <entity_id>m.0h_948r</entity_id>
   </query>
   <query id="EL14_CMN_2288">
     <name>印</name>
     <docid>XIN_CMN_20020527.0150</docid>
     <beg>321</beg>
     <end>321</end>
+    <entity_id>m.03rk0</entity_id>
   </query>
   <query id="EL14_CMN_2289">
     <name>周树人</name>
     <docid>PLA_CMN_20090926.0059</docid>
     <beg>127</beg>
     <end>129</end>
+    <entity_id>m.0hg3q</entity_id>
   </query>
   <query id="EL14_CMN_2290">
     <name>珍妮佛罗培兹</name>
     <docid>AFP_CMN_20020608.0015</docid>
     <beg>155</beg>
     <end>160</end>
+    <entity_id>m.043zg</entity_id>
   </query>
   <query id="EL14_CMN_2291">
     <name>文联</name>
     <docid>XIN_CMN_19920710.0171</docid>
     <beg>164</beg>
     <end>165</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2292">
     <name>哈林</name>
     <docid>CNA_CMN_20101105.0247</docid>
     <beg>154</beg>
     <end>155</end>
+    <entity_id>m.01pc42h</entity_id>
   </query>
   <query id="EL14_CMN_2293">
     <name>罗玉凤</name>
     <docid>CNS_CMN_20100303.0579</docid>
     <beg>861</beg>
     <end>863</end>
+    <entity_id>m.0ds8y1p</entity_id>
   </query>
   <query id="EL14_CMN_2294">
     <name>柯受良</name>
     <docid>XIN_CMN_19970602.0001</docid>
     <beg>125</beg>
     <end>127</end>
+    <entity_id>m.027fln6</entity_id>
   </query>
   <query id="EL14_CMN_2295">
     <name>北宁</name>
     <docid>AFP_CMN_20040317.0039</docid>
     <beg>194</beg>
     <end>195</end>
+    <entity_id>m.03q6fw</entity_id>
   </query>
   <query id="EL14_CMN_2296">
     <name>马三不</name>
     <docid>bolt-cmn-DF-205-185863-149523</docid>
     <beg>1598</beg>
     <end>1600</end>
+    <entity_id>m.014d02</entity_id>
   </query>
   <query id="EL14_CMN_2297">
     <name>大使馆</name>
     <docid>XIN_CMN_19980731.0025</docid>
     <beg>222</beg>
     <end>224</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2298">
     <name>鼓楼</name>
     <docid>XIN_CMN_19920921.0153</docid>
     <beg>189</beg>
     <end>190</end>
-  </query>
-  <query id="EL14_CMN_2299">
-    <name>Kevin Garnet</name>
-    <docid>XIN_ENG_20100214.0145</docid>
-    <beg>395</beg>
-    <end>406</end>
+    <entity_id>m.076vpkx</entity_id>
   </query>
   <query id="EL14_CMN_2300">
     <name>徐熙媛</name>
     <docid>CNA_CMN_20091103.0357</docid>
     <beg>308</beg>
     <end>310</end>
+    <entity_id>m.0dcfnz</entity_id>
   </query>
   <query id="EL14_CMN_2301">
     <name>孟子</name>
