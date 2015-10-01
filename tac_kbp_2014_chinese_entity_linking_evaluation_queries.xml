@@ -13809,72 +13809,84 @@
     <docid>XIN_CMN_20070416.0045</docid>
     <beg>160</beg>
     <end>161</end>
+    <entity_id>m.01b_fn</entity_id>
   </query>
   <query id="EL14_CMN_2302">
     <name>日本共同通讯社</name>
     <docid>bolt-cmn-DF-205-185863-587125</docid>
     <beg>11848</beg>
     <end>11854</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2303">
     <name>菲尔普斯</name>
     <docid>bolt-cmn-DF-205-185862-209216</docid>
     <beg>2410</beg>
     <end>2413</end>
+    <entity_id>m.03cvfg</entity_id>
   </query>
   <query id="EL14_CMN_2304">
     <name>日照</name>
     <docid>PDA_CMN_20080201.0241</docid>
     <beg>141</beg>
     <end>142</end>
+    <entity_id>m.0897yd</entity_id>
   </query>
   <query id="EL14_CMN_2305">
     <name>张学良</name>
     <docid>CNS_CMN_20101101.0192</docid>
     <beg>65</beg>
     <end>67</end>
+    <entity_id>m.089hk</entity_id>
   </query>
   <query id="EL14_CMN_2306">
     <name>总工 会</name>
     <docid>XIN_CMN_20060808.0007</docid>
     <beg>1006</beg>
     <end>1009</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2307">
     <name>姚高人</name>
     <docid>bolt-cmn-DF-196-185692-2810220</docid>
     <beg>427</beg>
     <end>429</end>
+    <entity_id>m.01jzhl</entity_id>
   </query>
   <query id="EL14_CMN_2308">
     <name>阿拉伯国家联盟</name>
     <docid>bolt-cmn-DF-20-191611-3861528</docid>
     <beg>3293</beg>
     <end>3299</end>
+    <entity_id>m.0dv0g</entity_id>
   </query>
   <query id="EL14_CMN_2309">
     <name>高平</name>
     <docid>XIN_CMN_20100616.0333</docid>
     <beg>129</beg>
     <end>130</end>
+    <entity_id>m.024pfh</entity_id>
   </query>
   <query id="EL14_CMN_2310">
     <name>邓公</name>
     <docid>bolt-cmn-DF-182-192255-6451001</docid>
     <beg>570</beg>
     <end>571</end>
+    <entity_id>m.028_0</entity_id>
   </query>
   <query id="EL14_CMN_2311">
     <name>计生委</name>
     <docid>bolt-cmn-DF-21-181152-106857</docid>
     <beg>20961</beg>
     <end>20963</end>
+    <entity_id>m.0rpgc3b</entity_id>
   </query>
   <query id="EL14_CMN_2312">
     <name>沈雁冰</name>
     <docid>XIN_CMN_19960704.0087</docid>
     <beg>313</beg>
     <end>315</end>
+    <entity_id>m.0jhhn</entity_id>
   </query>
   <query id="EL14_CMN_2313">
     <name>牛津</name>
