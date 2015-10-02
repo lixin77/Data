@@ -13347,150 +13347,140 @@
     <docid>CNS_CMN_20100427.0756</docid>
     <beg>159</beg>
     <end>162</end>
+    <entity_id>m.0vmt</entity_id>
   </query>
   <query id="EL14_CMN_2225">
     <name>交大</name>
     <docid>XIN_CMN_19960408.0072</docid>
     <beg>254</beg>
     <end>255</end>
+    <entity_id>m.01j8l9</entity_id>
   </query>
   <query id="EL14_CMN_2226">
     <name>医科大学</name>
     <docid>CNS_CMN_20101127.0337</docid>
     <beg>1154</beg>
     <end>1157</end>
-  </query>
-  <query id="EL14_CMN_2227">
-    <name>Jennifer Lopez</name>
-    <docid>AFP_CMN_20100713.0035</docid>
-    <beg>161</beg>
-    <end>174</end>
+    <entity_id>m.03pzmk</entity_id>
   </query>
   <query id="EL14_CMN_2228">
     <name>巴拉克・侯赛因・奥巴马</name>
     <docid>PDA_CMN_20100901.0036</docid>
     <beg>582</beg>
     <end>592</end>
-  </query>
-  <query id="EL14_CMN_2229">
-    <name>Georgia</name>
-    <docid>AFP_ENG_20090907.0013</docid>
-    <beg>121</beg>
-    <end>127</end>
+    <entity_id>m.02mjmr</entity_id>
   </query>
   <query id="EL14_CMN_2230">
     <name>戴雨农</name>
     <docid>bolt-cmn-DF-211-187112-3837063</docid>
     <beg>237</beg>
     <end>239</end>
+    <entity_id>m.085m5b</entity_id>
   </query>
   <query id="EL14_CMN_2231">
     <name>小布什</name>
     <docid>CNS_CMN_20100331.0780</docid>
     <beg>184</beg>
     <end>186</end>
-  </query>
-  <query id="EL14_CMN_2232">
-    <name>Shanghai Jiao Tong University</name>
-    <docid>XIN_ENG_20091014.0199</docid>
-    <beg>657</beg>
-    <end>685</end>
+    <entity_id>m.09b6zr</entity_id>
   </query>
   <query id="EL14_CMN_2233">
     <name>跳水王子</name>
     <docid>bolt-cmn-DF-196-185692-2807316</docid>
     <beg>1675</beg>
     <end>1678</end>
+    <entity_id>m.04972h</entity_id>
   </query>
   <query id="EL14_CMN_2234">
     <name>芒果台</name>
     <docid>bolt-cmn-DF-182-192231-4901868</docid>
     <beg>1761</beg>
     <end>1763</end>
+    <entity_id>m.0nb39zp</entity_id>
   </query>
   <query id="EL14_CMN_2235">
     <name>菲尔普斯</name>
     <docid>bolt-cmn-DF-211-187123-5132636</docid>
     <beg>8044</beg>
     <end>8047</end>
+    <entity_id>m.03cvfg</entity_id>
   </query>
   <query id="EL14_CMN_2236">
     <name>抚顺</name>
     <docid>XIN_CMN_20100801.0132</docid>
     <beg>457</beg>
     <end>458</end>
+    <entity_id>m.0579t4</entity_id>
   </query>
   <query id="EL14_CMN_2237">
     <name>大同</name>
     <docid>XIN_CMN_19920108.0102</docid>
     <beg>189</beg>
     <end>190</end>
+    <entity_id>m.02gppq</entity_id>
   </query>
   <query id="EL14_CMN_2238">
     <name>萨达姆·侯赛因</name>
     <docid>bolt-cmn-DF-205-185859-548916</docid>
     <beg>2638</beg>
     <end>2644</end>
+    <entity_id>m.079dy</entity_id>
   </query>
   <query id="EL14_CMN_2239">
     <name>大韓民國</name>
     <docid>CNA_CMN_20090819.0015</docid>
     <beg>235</beg>
     <end>238</end>
+    <entity_id>m.06qd3</entity_id>
   </query>
   <query id="EL14_CMN_2240">
     <name>刘翔</name>
     <docid>CNS_CMN_20091104.1130</docid>
     <beg>239</beg>
     <end>240</end>
+    <entity_id>m.03kt92</entity_id>
   </query>
   <query id="EL14_CMN_2241">
     <name>凯特·布兰切特</name>
     <docid>XIN_CMN_20101128.0073</docid>
     <beg>120</beg>
     <end>126</end>
+    <entity_id>m.0154qm</entity_id>
   </query>
   <query id="EL14_CMN_2242">
     <name>贺军翔</name>
     <docid>bolt-cmn-DF-182-192231-4922026</docid>
     <beg>506</beg>
     <end>508</end>
+    <entity_id>m.02wvft6</entity_id>
   </query>
   <query id="EL14_CMN_2243">
     <name>吉林</name>
     <docid>XIN_CMN_20040419.0008</docid>
     <beg>58</beg>
     <end>59</end>
+    <entity_id>m.017fy2</entity_id>
   </query>
   <query id="EL14_CMN_2244">
     <name>明尼苏达</name>
     <docid>XIN_CMN_20071029.0236</docid>
     <beg>140</beg>
     <end>143</end>
+    <entity_id>m.04ykg</entity_id>
   </query>
   <query id="EL14_CMN_2245">
     <name>美协</name>
     <docid>XIN_CMN_19940828.0171</docid>
     <beg>160</beg>
     <end>161</end>
-  </query>
-  <query id="EL14_CMN_2246">
-    <name>Tiger Woods</name>
-    <docid>AFP_ENG_20091201.0139</docid>
-    <beg>113</beg>
-    <end>123</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2247">
     <name>美协</name>
     <docid>XIN_CMN_20010923.0092</docid>
     <beg>264</beg>
     <end>265</end>
-  </query>
-  <query id="EL14_CMN_2248">
-    <name>Jefferson</name>
-    <docid>NYT_ENG_20100520.0099</docid>
-    <beg>569</beg>
-    <end>577</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2249">
     <name>阿汤哥</name>
