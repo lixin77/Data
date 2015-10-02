@@ -13299,48 +13299,35 @@
     <docid>bolt-cmn-DF-196-185667-2990152</docid>
     <beg>1227</beg>
     <end>1229</end>
+    <entity_id>m.089hk</entity_id>
   </query>
   <query id="EL14_CMN_2217">
     <name>西交大</name>
     <docid>bolt-cmn-DF-211-187150-3887805</docid>
     <beg>53</beg>
     <end>55</end>
+    <entity_id>m.030tmb</entity_id>
   </query>
   <query id="EL14_CMN_2218">
     <name>宝山</name>
     <docid>XIN_CMN_19960308.0080</docid>
     <beg>181</beg>
     <end>182</end>
-  </query>
-  <query id="EL14_CMN_2219">
-    <name>Juneau</name>
-    <docid>APW_ENG_20091106.1163</docid>
-    <beg>1393</beg>
-    <end>1398</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2220">
     <name>儿童医院</name>
     <docid>XIN_CMN_19981223.0181</docid>
     <beg>190</beg>
     <end>193</end>
-  </query>
-  <query id="EL14_CMN_2221">
-    <name>Embassy</name>
-    <docid>XIN_ENG_20100514.0025</docid>
-    <beg>395</beg>
-    <end>401</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2222">
     <name>哥哥</name>
     <docid>CNS_CMN_20100402.0061</docid>
     <beg>404</beg>
     <end>405</end>
-  </query>
-  <query id="EL14_CMN_2223">
-    <name>Maine</name>
-    <docid>APW_ENG_20091104.0229</docid>
-    <beg>121</beg>
-    <end>125</end>
+    <entity_id>m.01d1yr</entity_id>
   </query>
   <query id="EL14_CMN_2224">
     <name>亚利桑那</name>
