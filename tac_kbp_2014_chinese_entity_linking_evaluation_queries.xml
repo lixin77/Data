@@ -13497,54 +13497,63 @@
     <docid>bolt-cmn-DF-182-192231-4904115</docid>
     <beg>2200</beg>
     <end>2202</end>
+    <entity_id>m.07r1h</entity_id>
   </query>
   <query id="EL14_CMN_2250">
     <name>康乃狄克大学</name>
     <docid>AFP_CMN_20101231.0045</docid>
     <beg>133</beg>
     <end>138</end>
+    <entity_id>m.01jsn5</entity_id>
   </query>
   <query id="EL14_CMN_2251">
     <name>邓爷爷</name>
     <docid>XIN_CMN_19970223.0080</docid>
     <beg>710</beg>
     <end>712</end>
+    <entity_id>m.028_0</entity_id>
   </query>
   <query id="EL14_CMN_2252">
     <name>河南</name>
     <docid>XIN_CMN_19931112.0063</docid>
     <beg>731</beg>
     <end>732</end>
+    <entity_id>m.09jvwh</entity_id>
   </query>
   <query id="EL14_CMN_2253">
     <name>商都</name>
     <docid>XIN_CMN_19971224.0177</docid>
     <beg>275</beg>
     <end>276</end>
+    <entity_id>m.04my559</entity_id>
   </query>
   <query id="EL14_CMN_2254">
     <name>残联</name>
     <docid>XIN_CMN_20080518.0192</docid>
     <beg>1171</beg>
     <end>1172</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2255">
     <name>大使馆</name>
     <docid>PDA_CMN_20080525.0021</docid>
     <beg>262</beg>
     <end>264</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2256">
     <name>诗仙</name>
     <docid>XIN_CMN_19941005.0194</docid>
     <beg>219</beg>
     <end>220</end>
+    <entity_id>m.04l04</entity_id>
   </query>
   <query id="EL14_CMN_2257">
     <name>张惠妹</name>
     <docid>PDA_CMN_20090819.0301</docid>
     <beg>161</beg>
     <end>163</end>
+    <entity_id>m.02g7_n</entity_id>
   </query>
   <query id="EL14_CMN_2258">
     <name>刘天王</name>
@@ -13562,7 +13571,7 @@
   </query>
   <query id="EL14_CMN_2261">
     <name>金三胖子</name>
-    <docid>bolt-cmn-DF-196-185667-2989001</docid>
+    <docid>bolt-cmn-DF-196-185667-2989001</docid       >
     <beg>3131</beg>
     <end>3134</end>
     <entity_id>m.0fgw19</entity_id>
