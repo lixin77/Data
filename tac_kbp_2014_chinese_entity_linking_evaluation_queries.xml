@@ -13185,114 +13185,105 @@
     <docid>XIN_CMN_19940907.0281</docid>
     <beg>162</beg>
     <end>165</end>
+    <entity_id>m.03p96_</entity_id>
   </query>
   <query id="EL14_CMN_2198">
     <name>田亮</name>
     <docid>bolt-cmn-DF-211-187113-3296305</docid>
     <beg>762</beg>
     <end>763</end>
+    <entity_id>m.04972h</entity_id>
   </query>
   <query id="EL14_CMN_2199">
     <name>张国荣</name>
     <docid>bolt-cmn-DF-196-185692-2816808</docid>
     <beg>1097</beg>
     <end>1099</end>
-  </query>
-  <query id="EL14_CMN_2200">
-    <name>Md.</name>
-    <docid>LTW_ENG_20090704.0035</docid>
-    <beg>498</beg>
-    <end>500</end>
+    <entity_id>m.01d1yr</entity_id>
   </query>
   <query id="EL14_CMN_2201">
     <name>连战</name>
     <docid>CNS_CMN_20100914.0492</docid>
     <beg>196</beg>
     <end>197</end>
+    <entity_id>m.011jlx</entity_id>
   </query>
   <query id="EL14_CMN_2202">
     <name>番茄台</name>
     <docid>bolt-cmn-DF-211-187144-4876525</docid>
     <beg>733</beg>
     <end>735</end>
+    <entity_id>m.0cn_c7v</entity_id>
   </query>
   <query id="EL14_CMN_2203">
     <name>海城</name>
     <docid>XIN_CMN_19960709.0179</docid>
     <beg>264</beg>
     <end>265</end>
-  </query>
-  <query id="EL14_CMN_2204">
-    <name>Republic of Korea</name>
-    <docid>XIN_ENG_20090707.0171</docid>
-    <beg>229</beg>
-    <end>245</end>
-  </query>
-  <query id="EL14_CMN_2205">
-    <name>Monterey Park</name>
-    <docid>XIN_ENG_20090920.0086</docid>
-    <beg>234</beg>
-    <end>246</end>
+    <entity_id>m.041vwy</entity_id>
   </query>
   <query id="EL14_CMN_2206">
     <name>侨联</name>
     <docid>PDA_CMN_20061106.4105</docid>
     <beg>180</beg>
     <end>181</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2207">
     <name>外交部</name>
     <docid>XIN_CMN_20051020.0071</docid>
     <beg>174</beg>
     <end>176</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2208">
     <name>侨联</name>
     <docid>XIN_CMN_20050708.0060</docid>
     <beg>270</beg>
     <end>271</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2209">
     <name>纳尔班迪安</name>
     <docid>XIN_CMN_20071104.0179</docid>
     <beg>179</beg>
     <end>183</end>
+    <entity_id>m.031gr8</entity_id>
   </query>
   <query id="EL14_CMN_2210">
     <name>平定</name>
     <docid>XIN_CMN_19980303.0140</docid>
     <beg>154</beg>
     <end>155</end>
+    <entity_id>m.03r33w</entity_id>
   </query>
   <query id="EL14_CMN_2211">
     <name>袁大头</name>
     <docid>bolt-cmn-DF-20-191613-3842905</docid>
     <beg>2526</beg>
     <end>2528</end>
+    <entity_id>m.0g4hq</entity_id>
   </query>
   <query id="EL14_CMN_2212">
     <name>消协</name>
     <docid>bolt-cmn-DF-211-187152-4453390</docid>
     <beg>728</beg>
     <end>729</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2213">
     <name>清高宗</name>
     <docid>XIN_CMN_20071101.0263</docid>
     <beg>335</beg>
     <end>337</end>
-  </query>
-  <query id="EL14_CMN_2214">
-    <name>Berkshire Hathaway</name>
-    <docid>AFP_ENG_20091103.0472</docid>
-    <beg>89</beg>
-    <end>106</end>
+    <entity_id>m.01ndbr</entity_id>
   </query>
   <query id="EL14_CMN_2215">
     <name>辣妹维多利亚</name>
     <docid>bolt-cmn-DF-205-185872-1170155</docid>
     <beg>676</beg>
     <end>681</end>
+    <entity_id>m.0cgfb</entity_id>
   </query>
   <query id="EL14_CMN_2216">
     <name>张学良</name>
