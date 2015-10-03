@@ -13071,114 +13071,105 @@
     <docid>CNS_CMN_20100314.0341</docid>
     <beg>512</beg>
     <end>513</end>
+    <entity_id>m.038n8v</entity_id>
   </query>
   <query id="EL14_CMN_2179">
     <name>方舟子</name>
     <docid>bolt-cmn-DF-182-192251-6390374</docid>
     <beg>148</beg>
     <end>150</end>
+    <entity_id>m.0j27n1m</entity_id>
   </query>
   <query id="EL14_CMN_2180">
     <name>妇联</name>
     <docid>PDA_CMN_20080523.0252</docid>
     <beg>155</beg>
     <end>156</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2181">
     <name>妮可·基德曼</name>
     <docid>bolt-cmn-DF-211-187119-4788255</docid>
     <beg>1201</beg>
     <end>1206</end>
+    <entity_id>m.05dbf</entity_id>
   </query>
   <query id="EL14_CMN_2182">
     <name>朝阳</name>
     <docid>CNS_CMN_20091130.0136</docid>
     <beg>2152</beg>
     <end>2153</end>
+    <entity_id>m.06fjsn</entity_id>
   </query>
   <query id="EL14_CMN_2183">
     <name>孔子</name>
     <docid>XIN_CMN_20060927.0133</docid>
     <beg>187</beg>
     <end>188</end>
+    <entity_id>m.01rll</entity_id>
   </query>
   <query id="EL14_CMN_2184">
     <name>城北</name>
     <docid>XIN_CMN_20081103.0082</docid>
     <beg>159</beg>
     <end>160</end>
+    <entity_id>m.026rmvs</entity_id>
   </query>
   <query id="EL14_CMN_2185">
     <name>史蒂文・斯皮尔伯格</name>
     <docid>XIN_CMN_20021104.0190</docid>
     <beg>138</beg>
     <end>146</end>
+    <entity_id>m.06pj8</entity_id>
   </query>
   <query id="EL14_CMN_2186">
     <name>宋庆龄</name>
     <docid>bolt-cmn-DF-211-187111-4482626</docid>
     <beg>161</beg>
     <end>163</end>
+    <entity_id>m.01d086</entity_id>
   </query>
   <query id="EL14_CMN_2187">
     <name>孟轲</name>
     <docid>PDA_CMN_20100423.0398</docid>
     <beg>1114</beg>
     <end>1115</end>
+    <entity_id>m.01b_fn</entity_id>
   </query>
   <query id="EL14_CMN_2188">
     <name>康州</name>
     <docid>CNA_CMN_20100421.0194</docid>
     <beg>61</beg>
     <end>62</end>
+    <entity_id>m.01x73</entity_id>
   </query>
   <query id="EL14_CMN_2189">
     <name>飞人</name>
     <docid>CNS_CMN_20100313.0293</docid>
     <beg>160</beg>
     <end>161</end>
+    <entity_id>m.03kt92</entity_id>
   </query>
   <query id="EL14_CMN_2190">
     <name>艾尔维斯・普莱希利</name>
     <docid>XIN_CMN_19910122.0118</docid>
     <beg>153</beg>
     <end>161</end>
-  </query>
-  <query id="EL14_CMN_2191">
-    <name>Andrew Lau</name>
-    <docid>APW_ENG_20100914.0127</docid>
-    <beg>206</beg>
-    <end>215</end>
-  </query>
-  <query id="EL14_CMN_2192">
-    <name>San Francisco</name>
-    <docid>APW_ENG_20101201.0285</docid>
-    <beg>470</beg>
-    <end>482</end>
-  </query>
-  <query id="EL14_CMN_2193">
-    <name>Phoenix</name>
-    <docid>XIN_ENG_20100305.0307</docid>
-    <beg>261</beg>
-    <end>267</end>
-  </query>
-  <query id="EL14_CMN_2194">
-    <name>George H.W. Bush</name>
-    <docid>APW_ENG_20101101.0033</docid>
-    <beg>209</beg>
-    <end>224</end>
+    <entity_id>m.02jq1</entity_id>
   </query>
   <query id="EL14_CMN_2195">
     <name>宋子文</name>
     <docid>PDA_CMN_20100523.0380</docid>
     <beg>142</beg>
     <end>144</end>
+    <entity_id>m.01z0fw</entity_id>
   </query>
   <query id="EL14_CMN_2196">
     <name>医科大学</name>
     <docid>PDA_CMN_20100328.0301</docid>
     <beg>304</beg>
     <end>307</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2197">
     <name>师范大学</name>
