@@ -12951,120 +12951,119 @@
     <docid>PDA_CMN_20100409.0346</docid>
     <beg>171</beg>
     <end>174</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2159">
     <name>李宁</name>
     <docid>XIN_CMN_19920430.0150</docid>
     <beg>218</beg>
     <end>219</end>
+    <entity_id>m.03rg1z</entity_id>
   </query>
   <query id="EL14_CMN_2160">
     <name>博伊西</name>
     <docid>XIN_CMN_20080118.0123</docid>
     <beg>180</beg>
     <end>182</end>
+    <entity_id>m.099ty</entity_id>
   </query>
   <query id="EL14_CMN_2161">
     <name>育才</name>
     <docid>XIN_CMN_19980703.0163</docid>
     <beg>139</beg>
     <end>140</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2162">
     <name>田亮</name>
     <docid>bolt-cmn-DF-211-187113-3296305</docid>
     <beg>535</beg>
     <end>536</end>
-  </query>
-  <query id="EL14_CMN_2163">
-    <name>Philly</name>
-    <docid>NYT_ENG_20091227.0039</docid>
-    <beg>3791</beg>
-    <end>3796</end>
-  </query>
-  <query id="EL14_CMN_2164">
-    <name>Dikembe Mutombo</name>
-    <docid>APW_ENG_20091117.1126</docid>
-    <beg>178</beg>
-    <end>192</end>
+    <entity_id>m.04972h</entity_id>
   </query>
   <query id="EL14_CMN_2165">
     <name>林芝</name>
     <docid>bolt-cmn-DF-216-192654-6873079</docid>
     <beg>2081</beg>
     <end>2082</end>
+    <entity_id>m.0b88m6</entity_id>
   </query>
   <query id="EL14_CMN_2166">
     <name>中国人民政治协商会议</name>
     <docid>bolt-cmn-DF-20-191610-3814446</docid>
     <beg>14004</beg>
     <end>14013</end>
+    <entity_id>m.01g99q</entity_id>
   </query>
   <query id="EL14_CMN_2167">
     <name>连爷爷</name>
     <docid>PDA_CMN_20070522.0277</docid>
     <beg>442</beg>
     <end>444</end>
+    <entity_id>m.011jlx</entity_id>
   </query>
   <query id="EL14_CMN_2168">
     <name>印第安納波利斯</name>
     <docid>CNA_CMN_20100317.0025</docid>
     <beg>571</beg>
     <end>577</end>
-  </query>
-  <query id="EL14_CMN_2169">
-    <name>Hebei</name>
-    <docid>bolt-eng-DF-212-191673-3105920</docid>
-    <beg>6772</beg>
-    <end>6776</end>
+    <entity_id>m.0ftxw</entity_id>
   </query>
   <query id="EL14_CMN_2170">
     <name>乌兰夫</name>
     <docid>XIN_CMN_20061215.0088</docid>
     <beg>179</beg>
     <end>181</end>
+    <entity_id>m.09zvcg</entity_id>
   </query>
   <query id="EL14_CMN_2171">
     <name>托皮卡</name>
     <docid>XIN_CMN_20000316.0145</docid>
     <beg>234</beg>
     <end>236</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2172">
     <name>彭博新闻社</name>
     <docid>bolt-cmn-DF-205-185863-587125</docid>
     <beg>11809</beg>
     <end>11813</end>
+    <entity_id>m.027sm6</entity_id>
   </query>
   <query id="EL14_CMN_2173">
     <name>玄奘</name>
     <docid>bolt-cmn-DF-205-185858-1358387</docid>
     <beg>1332</beg>
     <end>1333</end>
+    <entity_id>m.01c_t4</entity_id>
   </query>
   <query id="EL14_CMN_2174">
     <name>郝海东</name>
     <docid>XIN_CMN_19981101.0030</docid>
     <beg>165</beg>
     <end>167</end>
+    <entity_id>m.075j0p</entity_id>
   </query>
   <query id="EL14_CMN_2175">
     <name>中国共产党</name>
     <docid>bolt-cmn-DF-205-185863-582607</docid>
     <beg>4152</beg>
     <end>4156</end>
+    <entity_id>m.02189</entity_id>
   </query>
   <query id="EL14_CMN_2176">
     <name>凤姐</name>
-    <docid>PDA_CMN_20100314.0118</docid>
+    <docid>PDA_CMN_20100314.0118</docid> 
     <beg>955</beg>
     <end>956</end>
+    <entity_id>m.0ds8y1p</entity_id>
   </query>
   <query id="EL14_CMN_2177">
     <name>李进</name>
     <docid>CNS_CMN_20100308.0498</docid>
     <beg>2855</beg>
     <end>2856</end>
+    <entity_id>m.0hcbg</entity_id>
   </query>
   <query id="EL14_CMN_2178">
     <name>阿娇</name>
