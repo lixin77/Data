@@ -12705,102 +12705,98 @@
     <docid>bolt-cmn-DF-216-192653-6950477</docid>
     <beg>4377</beg>
     <end>4378</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2118">
     <name>儿童医院</name>
     <docid>XIN_CMN_19910318.0073</docid>
     <beg>471</beg>
     <end>474</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2119">
     <name>王菲</name>
     <docid>CNA_CMN_20100104.0303</docid>
     <beg>166</beg>
     <end>167</end>
+    <entity_id>m.01r1jx</entity_id>
   </query>
   <query id="EL14_CMN_2120">
     <name>吉大</name>
     <docid>PDA_CMN_20090927.0383</docid>
     <beg>636</beg>
     <end>637</end>
+    <entity_id>m.03pwy6</entity_id>
   </query>
   <query id="EL14_CMN_2121">
     <name>小恩子</name>
     <docid>bolt-cmn-DF-20-191610-15131343</docid>
     <beg>6633</beg>
     <end>6635</end>
+    <entity_id>m.0fgw19</entity_id>
   </query>
   <query id="EL14_CMN_2122">
     <name>荷兰</name>
     <docid>PDA_CMN_20070629.0466</docid>
     <beg>166</beg>
     <end>167</end>
-  </query>
-  <query id="EL14_CMN_2123">
-    <name>Embassy</name>
-    <docid>XIN_ENG_20100313.0107</docid>
-    <beg>330</beg>
-    <end>336</end>
-  </query>
-  <query id="EL14_CMN_2124">
-    <name>Hillary Clinton</name>
-    <docid>AFP_ENG_20090717.0157</docid>
-    <beg>111</beg>
-    <end>125</end>
+    <entity_id>m.059j2</entity_id>
   </query>
   <query id="EL14_CMN_2125">
     <name>滇</name>
     <docid>bolt-cmn-DF-216-192653-6954938</docid>
     <beg>22607</beg>
     <end>22607</end>
+    <entity_id>m.0166b8</entity_id>
   </query>
   <query id="EL14_CMN_2126">
     <name>大使馆</name>
     <docid>XIN_CMN_19981129.0017</docid>
     <beg>155</beg>
     <end>157</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2127">
     <name>马景涛</name>
     <docid>bolt-cmn-DF-182-192231-4922603</docid>
     <beg>4698</beg>
     <end>4700</end>
-  </query>
-  <query id="EL14_CMN_2128">
-    <name>UnitedHealth Group</name>
-    <docid>LTW_ENG_20091113.0086</docid>
-    <beg>445</beg>
-    <end>462</end>
+    <entity_id>m.010fdtms</entity_id>
   </query>
   <query id="EL14_CMN_2129">
     <name>陈毅</name>
     <docid>bolt-cmn-DF-20-191613-3836954</docid>
     <beg>1731</beg>
     <end>1732</end>
+    <entity_id>m.01sxz9</entity_id>
   </query>
   <query id="EL14_CMN_2130">
     <name>查尔斯王子</name>
     <docid>AFP_CMN_20050210.0021</docid>
     <beg>158</beg>
     <end>162</end>
+    <entity_id>m.0xnc3</entity_id>
   </query>
   <query id="EL14_CMN_2131">
     <name>马自达汽车公司</name>
     <docid>AFP_CMN_20081118.0008</docid>
     <beg>134</beg>
     <end>140</end>
+    <entity_id>m.04x9h</entity_id>
   </query>
   <query id="EL14_CMN_2132">
     <name>中国石油化工股份有限公司</name>
     <docid>bolt-cmn-DF-205-185867-784100</docid>
     <beg>199</beg>
     <end>210</end>
+    <entity_id>m.04sy2w</entity_id>
   </query>
   <query id="EL14_CMN_2133">
     <name>巴黎</name>
     <docid>XIN_CMN_20070223.0064</docid>
     <beg>87</beg>
     <end>88</end>
+    <entity_id>m.05qtj</entity_id>
   </query>
   <query id="EL14_CMN_2134">
     <name>李娜</name>
