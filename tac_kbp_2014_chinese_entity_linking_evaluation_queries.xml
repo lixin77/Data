@@ -12849,102 +12849,84 @@
     <docid>PDA_CMN_20100326.0304</docid>
     <beg>62</beg>
     <end>64</end>
+    <entity_id>m.015nm9</entity_id>
   </query>
   <query id="EL14_CMN_2142">
     <name>城</name>
     <docid>XIN_CMN_19951113.0125</docid>
     <beg>140</beg>
     <end>140</end>
+    <entity_id>m.080bflw</entity_id>
   </query>
   <query id="EL14_CMN_2143">
     <name>美国联邦储蓄银行</name>
     <docid>bolt-cmn-DF-211-187115-4409016</docid>
     <beg>1269</beg>
     <end>1276</end>
-  </query>
-  <query id="EL14_CMN_2144">
-    <name>Association of Southeast Asian Nations</name>
-    <docid>bolt-eng-DF-170-181118-8876667</docid>
-    <beg>4157</beg>
-    <end>4194</end>
-  </query>
-  <query id="EL14_CMN_2145">
-    <name>Romania</name>
-    <docid>AFP_ENG_20100419.0131</docid>
-    <beg>89</beg>
-    <end>95</end>
-  </query>
-  <query id="EL14_CMN_2146">
-    <name>embassy</name>
-    <docid>XIN_ENG_20100307.0215</docid>
-    <beg>401</beg>
-    <end>407</end>
+    <entity_id>m.02xmb</entity_id>
   </query>
   <query id="EL14_CMN_2147">
     <name>柏阿姨</name>
     <docid>CNS_CMN_20090916.0022</docid>
     <beg>153</beg>
     <end>155</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2148">
     <name>儿童医院</name>
     <docid>XIN_CMN_19940226.0251</docid>
     <beg>323</beg>
     <end>326</end>
-  </query>
-  <query id="EL14_CMN_2149">
-    <name>Kentucky</name>
-    <docid>APW_ENG_20091006.0763</docid>
-    <beg>142</beg>
-    <end>149</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2150">
     <name>徐熙媛</name>
     <docid>PDA_CMN_20101106.0090</docid>
     <beg>233</beg>
     <end>235</end>
+    <entity_id>m.0dcfnz</entity_id>
   </query>
   <query id="EL14_CMN_2151">
     <name>习副</name>
     <docid>bolt-cmn-DF-20-191612-15160220</docid>
     <beg>314</beg>
     <end>315</end>
+    <entity_id>m.06ff60</entity_id>
   </query>
   <query id="EL14_CMN_2152">
     <name>威廉姆斯</name>
     <docid>XIN_CMN_20060117.0067</docid>
     <beg>241</beg>
     <end>244</end>
-  </query>
-  <query id="EL14_CMN_2153">
-    <name>Taipei</name>
-    <docid>APW_ENG_20100304.0075</docid>
-    <beg>167</beg>
-    <end>172</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2154">
     <name>田亮</name>
     <docid>bolt-cmn-DF-196-185692-2807688</docid>
     <beg>155</beg>
     <end>156</end>
+    <entity_id>m.04972h</entity_id>
   </query>
   <query id="EL14_CMN_2155">
     <name>侨联</name>
     <docid>XIN_CMN_19910805.0045</docid>
     <beg>279</beg>
     <end>280</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2156">
     <name>郊</name>
     <docid>XIN_CMN_19920829.0071</docid>
     <beg>128</beg>
     <end>128</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2157">
     <name>哈利贝瑞</name>
     <docid>bolt-cmn-DF-196-185692-2813890</docid>
     <beg>2664</beg>
     <end>2667</end>
+    <entity_id>m.03knl</entity_id>
   </query>
   <query id="EL14_CMN_2158">
     <name>儿童医院</name>
