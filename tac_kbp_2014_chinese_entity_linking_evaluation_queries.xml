@@ -12807,42 +12807,49 @@
     <docid>XIN_CMN_20000928.0173</docid>
     <beg>280</beg>
     <end>281</end>
+    <entity_id>m.06134y</entity_id>
   </query>
   <query id="EL14_CMN_2135">
     <name>金三胖</name>
     <docid>bolt-cmn-DF-20-191611-3869904</docid>
     <beg>3310</beg>
     <end>3312</end>
+    <entity_id>m.0fgw19</entity_id>
   </query>
   <query id="EL14_CMN_2136">
     <name>胡总</name>
     <docid>bolt-cmn-DF-20-191611-3875101</docid>
     <beg>2515</beg>
     <end>2516</end>
+    <entity_id>m.013my_</entity_id>
   </query>
   <query id="EL14_CMN_2137">
     <name>协和</name>
     <docid>PDA_CMN_20080516.0153</docid>
     <beg>410</beg>
     <end>411</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2138">
     <name>上海交通大学</name>
     <docid>bolt-cmn-DF-216-192653-6964345</docid>
     <beg>177</beg>
     <end>182</end>
+    <entity_id>m.01j8l9</entity_id>
   </query>
   <query id="EL14_CMN_2139">
     <name>威尔士亲王</name>
     <docid>XIN_CMN_19921222.0096</docid>
     <beg>133</beg>
     <end>137</end>
+    <entity_id>m.0cj1n</entity_id>
   </query>
   <query id="EL14_CMN_2140">
     <name>康永</name>
     <docid>bolt-cmn-DF-196-185692-2817916</docid>
     <beg>1326</beg>
     <end>1327</end>
+    <entity_id>m.03mb__6</entity_id>
   </query>
   <query id="EL14_CMN_2141">
     <name>朱元璋</name>
