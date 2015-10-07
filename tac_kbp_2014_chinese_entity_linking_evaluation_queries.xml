@@ -12824,7 +12824,7 @@
     <entity_id>m.013my_</entity_id>
   </query>
   <query id="EL14_CMN_2137">
-    <name>协和</name>
+    <name>协和</name> 
     <docid>PDA_CMN_20080516.0153</docid>
     <beg>410</beg>
     <end>411</end>
