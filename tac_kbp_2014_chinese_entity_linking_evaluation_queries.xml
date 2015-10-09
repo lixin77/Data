@@ -12689,7 +12689,7 @@
     <end>168</end>
   </query>
   <query id="EL14_CMN_2115">
-    <name>Fannie Mae</name>
+    <name>Fannie Mae</name> 
     <docid>AFP_ENG_20100727.0277</docid>
     <beg>105</beg>
     <end>114</end>
@@ -12699,6 +12699,7 @@
     <docid>CNA_CMN_20101212.0088</docid>
     <beg>822</beg>
     <end>825</end>
+    <entity_id>m.011p3</entity_id>
   </query>
   <query id="EL14_CMN_2117">
     <name>昆山</name>
