@@ -12459,108 +12459,119 @@
     <docid>XIN_CMN_20031226.0018</docid>
     <beg>143</beg>
     <end>145</end>
+    <entity_id>m.04xzm</entity_id>
   </query>
   <query id="EL14_CMN_2077">
     <name>威廉姆斯</name>
     <docid>XIN_CMN_20000731.0111</docid>
     <beg>57</beg>
     <end>60</end>
+    <entity_id>m.016cff</entity_id>
   </query>
   <query id="EL14_CMN_2078">
     <name>朝鲜中央通讯社</name>
     <docid>bolt-cmn-DF-205-185858-1399413</docid>
     <beg>9238</beg>
     <end>9244</end>
+    <entity_id>m.02ys4j</entity_id>
   </query>
   <query id="EL14_CMN_2079">
     <name>残联</name>
     <docid>XIN_CMN_20101202.0243</docid>
     <beg>473</beg>
     <end>474</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2080">
     <name>胡瓜</name>
     <docid>XIN_CMN_20061218.0039</docid>
     <beg>244</beg>
     <end>245</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2081">
     <name>溥仪</name>
     <docid>bolt-cmn-DF-20-191614-4127439</docid>
     <beg>492</beg>
     <end>493</end>
+    <entity_id>m.0fblq</entity_id>
   </query>
   <query id="EL14_CMN_2082">
     <name>张汉卿</name>
     <docid>CNS_CMN_20101009.0119</docid>
     <beg>588</beg>
     <end>590</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2083">
     <name>范冰冰</name>
     <docid>bolt-cmn-DF-182-192231-4918509</docid>
     <beg>10119</beg>
     <end>10121</end>
+    <entity_id>m.09wn3y</entity_id>
   </query>
   <query id="EL14_CMN_2084">
     <name>中国人民银行</name>
     <docid>bolt-cmn-DF-20-191610-2217099</docid>
     <beg>953</beg>
     <end>958</end>
+    <entity_id>m.0d1lb</entity_id>
   </query>
   <query id="EL14_CMN_2085">
     <name>王菲</name>
     <docid>bolt-cmn-DF-211-187113-3289879</docid>
     <beg>2025</beg>
     <end>2026</end>
-  </query>
-  <query id="EL14_CMN_2086">
-    <name>embassy</name>
-    <docid>XIN_ENG_20100422.0367</docid>
-    <beg>1647</beg>
-    <end>1653</end>
+    <entity_id>m.01r1jx</entity_id>
   </query>
   <query id="EL14_CMN_2087">
     <name>格里芬</name>
     <docid>bolt-cmn-DF-21-181232-94475</docid>
     <beg>708</beg>
     <end>710</end>
+    <entity_id>m.02qhzxp</entity_id>
   </query>
   <query id="EL14_CMN_2088">
     <name>小哥</name>
     <docid>bolt-cmn-DF-211-187123-5137100</docid>
     <beg>7787</beg>
     <end>7788</end>
+    <entity_id>m.06v7s3</entity_id>
   </query>
   <query id="EL14_CMN_2089">
     <name>贵州</name>
     <docid>bolt-cmn-DF-216-192653-6954938</docid>
     <beg>16423</beg>
     <end>16424</end>
+    <entity_id>m.017f_s</entity_id>
   </query>
   <query id="EL14_CMN_2090">
     <name>Hold住姐</name>
     <docid>bolt-cmn-DF-205-185872-1179531</docid>
     <beg>681</beg>
     <end>686</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2091">
     <name>医科大学</name>
     <docid>XIN_CMN_20061208.0182</docid>
     <beg>355</beg>
     <end>358</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2092">
     <name>新加坡</name>
     <docid>bolt-cmn-DF-20-191610-15123348</docid>
     <beg>66</beg>
     <end>68</end>
+    <entity_id>m.06t2t</entity_id>
   </query>
   <query id="EL14_CMN_2093">
     <name>澳門特別行政區</name>
     <docid>CNA_CMN_20091021.0172</docid>
     <beg>302</beg>
     <end>308</end>
+    <entity_id>m.04thp</entity_id>
   </query>
   <query id="EL14_CMN_2094">
     <name>红河</name>
