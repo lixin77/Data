@@ -12567,132 +12567,147 @@
     <docid>PDA_CMN_20080224.0056</docid>
     <beg>207</beg>
     <end>208</end>
+    <entity_id>m.04mxn8s</entity_id>
   </query>
   <query id="EL14_CMN_2095">
     <name>妇幼保健院</name>
     <docid>PDA_CMN_20100513.0203</docid>
     <beg>398</beg>
     <end>402</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2096">
     <name>汤姆·克鲁斯</name>
     <docid>bolt-cmn-DF-182-192231-21933208</docid>
     <beg>760</beg>
     <end>765</end>
+    <entity_id>m.07r1h</entity_id>
   </query>
   <query id="EL14_CMN_2097">
     <name>中国商业系统红十字会</name>
     <docid>bolt-cmn-DF-205-185872-1183393</docid>
     <beg>1772</beg>
     <end>1781</end>
+    <entity_id>m.03grxzk</entity_id>
   </query>
   <query id="EL14_CMN_2098">
     <name>珀杜</name>
     <docid>XIN_CMN_20020304.0167</docid>
     <beg>299</beg>
     <end>300</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2099">
     <name>爱新觉罗・溥仪</name>
     <docid>XIN_CMN_20061205.0129</docid>
     <beg>153</beg>
     <end>159</end>
+    <entity_id>m.0fblq</entity_id>
   </query>
   <query id="EL14_CMN_2100">
     <name>荔枝台</name>
     <docid>bolt-cmn-DF-182-192231-4908846</docid>
     <beg>658</beg>
     <end>660</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2101">
     <name>怡和</name>
     <docid>XIN_CMN_19920229.0155</docid>
     <beg>157</beg>
     <end>158</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2102">
     <name>王阳明</name>
     <docid>XIN_CMN_20070426.0208</docid>
     <beg>236</beg>
     <end>238</end>
+    <entity_id>m.02xb9k</entity_id>
   </query>
   <query id="EL14_CMN_2103">
     <name>王震</name>
     <docid>XIN_CMN_19930318.0206</docid>
     <beg>181</beg>
     <end>182</end>
+    <entity_id>m.02p2tbh</entity_id>
   </query>
   <query id="EL14_CMN_2104">
     <name>伊利诺</name>
     <docid>AFP_CMN_20031210.0015</docid>
     <beg>359</beg>
     <end>361</end>
+    <entity_id>m.03v0t</entity_id>
   </query>
   <query id="EL14_CMN_2105">
     <name>薄书记</name>
     <docid>bolt-cmn-DF-20-191610-2207194</docid>
     <beg>8762</beg>
     <end>8764</end>
+    <entity_id>m.02lwg2</entity_id>
   </query>
   <query id="EL14_CMN_2106">
     <name>杨家庄</name>
     <docid>CNS_CMN_20101220.0956</docid>
     <beg>381</beg>
     <end>383</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2107">
     <name>Steve Jobs</name>
     <docid>CNS_CMN_20091123.0164</docid>
     <beg>175</beg>
     <end>184</end>
+    <entity_id>m.06y3r</entity_id>
   </query>
   <query id="EL14_CMN_2108">
     <name>邯郸</name>
     <docid>XIN_CMN_20040611.0045</docid>
     <beg>175</beg>
     <end>176</end>
+    <entity_id>m.04xtcd</entity_id>
   </query>
   <query id="EL14_CMN_2109">
     <name>习副主席</name>
     <docid>bolt-cmn-DF-182-192251-6396474</docid>
     <beg>8367</beg>
     <end>8370</end>
+    <entity_id>m.06ff60</entity_id>
   </query>
   <query id="EL14_CMN_2110">
     <name>发哥</name>
     <docid>PDA_CMN_20070920.0042</docid>
     <beg>262</beg>
     <end>263</end>
+    <entity_id>m.0m9v7</entity_id>
   </query>
   <query id="EL14_CMN_2111">
     <name>通用汽车公司</name>
     <docid>XIN_CMN_19970110.0157</docid>
     <beg>150</beg>
     <end>155</end>
+    <entity_id>m.035nm</entity_id>
   </query>
   <query id="EL14_CMN_2112">
     <name>华仔</name>
     <docid>PDA_CMN_20080322.0075</docid>
     <beg>383</beg>
     <end>384</end>
+    <entity_id>m.01t2h2</entity_id>
   </query>
   <query id="EL14_CMN_2113">
     <name>UCLA</name>
     <docid>AFP_CMN_20101231.0045</docid>
     <beg>308</beg>
     <end>311</end>
+    <entity_id>m.09f2j</entity_id>
   </query>
   <query id="EL14_CMN_2114">
     <name>阜新</name>
     <docid>CNS_CMN_20091203.0936</docid>
     <beg>167</beg>
     <end>168</end>
-  </query>
-  <query id="EL14_CMN_2115">
-    <name>Fannie Mae</name> 
-    <docid>AFP_ENG_20100727.0277</docid>
-    <beg>105</beg>
-    <end>114</end>
+    <entity_id>m.056rxg</entity_id>
   </query>
   <query id="EL14_CMN_2116">
     <name>昂山素姬</name>
