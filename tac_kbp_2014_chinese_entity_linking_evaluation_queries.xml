@@ -12393,66 +12393,70 @@
     <docid>PDA_CMN_20100430.0254</docid>
     <beg>520</beg>
     <end>522</end>
+    <entity_id>m.059j2</entity_id>
   </query>
   <query id="EL14_CMN_2066">
     <name>武汉大学</name>
     <docid>XIN_CMN_20050218.0046</docid>
     <beg>145</beg>
     <end>148</end>
+    <entity_id>m.0419rf</entity_id>
   </query>
   <query id="EL14_CMN_2067">
     <name>日照</name>
     <docid>PDA_CMN_20080201.0241</docid>
     <beg>147</beg>
     <end>148</end>
+    <entity_id>m.0897yd</entity_id>
   </query>
   <query id="EL14_CMN_2068">
     <name>瓦莱罗能源公司</name>
     <docid>XIN_CMN_20050425.0289</docid>
     <beg>153</beg>
     <end>159</end>
+    <entity_id>m.01sn2s</entity_id>
   </query>
   <query id="EL14_CMN_2069">
     <name>刘同学</name>
     <docid>bolt-cmn-DF-205-185862-185663</docid>
     <beg>1564</beg>
     <end>1566</end>
-  </query>
-  <query id="EL14_CMN_2070">
-    <name>Lansing</name>
-    <docid>NYT_ENG_20101022.0126</docid>
-    <beg>602</beg>
-    <end>608</end>
+    <entity_id>m.03kt92</entity_id>
   </query>
   <query id="EL14_CMN_2071">
     <name>朱总理</name>
     <docid>bolt-cmn-DF-20-191610-2207132</docid>
     <beg>11414</beg>
     <end>11416</end>
+    <entity_id>m.012m1s</entity_id>
   </query>
   <query id="EL14_CMN_2072">
     <name>长安</name>
     <docid>CNS_CMN_20100604.0260</docid>
     <beg>176</beg>
     <end>177</end>
+    <entity_id>m.051w9ls</entity_id>
   </query>
   <query id="EL14_CMN_2073">
     <name>黔</name>
     <docid>bolt-cmn-DF-216-192653-6954938</docid>
     <beg>16411</beg>
     <end>16411</end>
+    <entity_id>m.017f_s</entity_id>
   </query>
   <query id="EL14_CMN_2074">
     <name>费城</name>
     <docid>PDA_CMN_20100601.0374</docid>
     <beg>148</beg>
     <end>149</end>
+    <entity_id>m.0dclg</entity_id>
   </query>
   <query id="EL14_CMN_2075">
     <name>University of Cambridge</name>
     <docid>AFP_CMN_20091031.0030</docid>
     <beg>643</beg>
     <end>665</end>
+    <entity_id>m.07tg4</entity_id>
   </query>
   <query id="EL14_CMN_2076">
     <name>毛泽东</name>
