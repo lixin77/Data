@@ -12369,24 +12369,28 @@
     <docid>XIN_CMN_20070719.0173</docid>
     <beg>227</beg>
     <end>230</end>
+    <entity_id>m.04972h</entity_id>
   </query>
   <query id="EL14_CMN_2062">
     <name>朱总理</name>
     <docid>bolt-cmn-DF-205-185862-193579</docid>
     <beg>3278</beg>
     <end>3280</end>
+    <entity_id>m.012m1s</entity_id>
   </query>
   <query id="EL14_CMN_2063">
     <name>儿童医院</name>
     <docid>XIN_CMN_19910517.0094</docid>
     <beg>155</beg>
     <end>158</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2064">
     <name>葛林斯潘</name>
     <docid>AFP_CMN_20050719.0026</docid>
     <beg>169</beg>
     <end>172</end>
+    <entity_id>m.015h4y</entity_id>
   </query>
   <query id="EL14_CMN_2065">
     <name>尼德兰</name>
