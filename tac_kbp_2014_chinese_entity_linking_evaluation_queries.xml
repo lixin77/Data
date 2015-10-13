@@ -12303,66 +12303,56 @@
     <docid>PDA_CMN_20100404.0084</docid>
     <beg>138</beg>
     <end>140</end>
+    <entity_id>m.02rh1rm</entity_id>
   </query>
   <query id="EL14_CMN_2051">
     <name>鼓楼</name>
     <docid>PDA_CMN_20100729.0466</docid>
     <beg>359</beg>
     <end>360</end>
+    <entity_id>m.080dkmm</entity_id>
   </query>
   <query id="EL14_CMN_2052">
     <name>陈冲</name>
     <docid>CNS_CMN_20100927.0504</docid>
     <beg>197</beg>
     <end>198</end>
-  </query>
-  <query id="EL14_CMN_2053">
-    <name>HP</name>
-    <docid>AFP_ENG_20100920.0034</docid>
-    <beg>492</beg>
-    <end>493</end>
-  </query>
-  <query id="EL14_CMN_2054">
-    <name>Australia</name>
-    <docid>bolt-eng-DF-170-181123-90180</docid>
-    <beg>430</beg>
-    <end>438</end>
+    <entity_id>m.01ypsj</entity_id>
   </query>
   <query id="EL14_CMN_2055">
     <name>亚太经济合作组织</name>
     <docid>bolt-cmn-DF-205-185859-140791</docid>
     <beg>1103</beg>
     <end>1110</end>
-  </query>
-  <query id="EL14_CMN_2056">
-    <name>Germany</name>
-    <docid>AFP_ENG_20100330.0316</docid>
-    <beg>122</beg>
-    <end>128</end>
+    <entity_id>m.01027r</entity_id>
   </query>
   <query id="EL14_CMN_2057">
     <name>台湾地区</name>
     <docid>XIN_CMN_20070213.0079</docid>
     <beg>120</beg>
     <end>123</end>
+    <entity_id>m.07dv8</entity_id>
   </query>
   <query id="EL14_CMN_2058">
     <name>残联</name>
     <docid>XIN_CMN_19920511.0099</docid>
     <beg>60</beg>
     <end>61</end>
+    <entity_id>NIL</entity_id>
   </query>
   <query id="EL14_CMN_2059">
     <name>医科大学</name>
     <docid>GMW_CMN_20100817.0659</docid>
     <beg>230</beg>
     <end>233</end>
+    <entity_id>m.047s691</entity_id>
   </query>
   <query id="EL14_CMN_2060">
     <name>霹雳虎</name>
     <docid>PDA_CMN_20100203.0250</docid>
     <beg>181</beg>
     <end>183</end>
+    <entity_id>m.0f77j8</entity_id>
   </query>
   <query id="EL14_CMN_2061">
     <name>跳水王子</name>
